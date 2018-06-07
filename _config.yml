@@ -37,3 +37,6 @@ address_zip: KY12 8DG
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  parse_block_html: true
