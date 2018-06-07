@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Dunfermline West Baptist Church Privacy Policy
 layout: page
 permalink: "/privacy/"
 ---
