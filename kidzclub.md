@@ -25,5 +25,7 @@ Children will be required to sign-in on arrival and sign-out as they leave. Regi
 
 Please register your child by downloading our consent form, filling it in and emailing it to <a href='mailto:enquiries@dunfermlinewest.org?subject=kidzclub'>enquiries@dunfermlinewest.org</a> or dropping it in at Dunfermline West Baptist Church.
 
-<a class="btn btn-primary btn-lg" href="{{ site.url }}/registration.docx" role="button"><span class="glyphicon glyphicon-list-alt" target='_blank'></span>&nbsp;Download Registration Form</a>
+
+<a class="btn btn-primary btn-lg" href="{{ site.url }}/registration.docx" role="button" target='_blank'><span class="glyphicon glyphicon-list-alt"></span>&nbsp;Download Registration Form</a>
+<a class="btn btn-default btn-lg" href="{{ site.url }}/assets/files/team-builders-small.pdf" role="button" target='_blank'><span class="glyphicon glyphicon-picture"></span>&nbsp;Download Promotion Leaflet</a>
 </div>
