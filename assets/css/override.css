@@ -2,5 +2,22 @@
 hr.star-light-black { border-colour: #000; }
 .navbar-brand { padding: 0px; height: 65px; margin-left: 10px;  }
 header .intro-text .skills { font-size: 3.75em; text-transform: uppercase; }
-.nav-padding { padding-top: 170px; }
+header img { margin: 0;  } 
+.nav-padding { padding-top: 110px; }
+.nav-padding-extra { padding-top: 140px; }
 .text-normal p { font-size: 15px;  }
+
+section h2 { font-size: 2em; }
+.bg-info { padding: 15px; }
+
+.no-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+@media (max-width: 768px) {
+	.navbar-custom { padding: 6px }
+	.nav-padding { padding-top: 75px ; } 
+	.nav-padding-extra { padding-top: 105px; }
+	.navbar-brand img { height: 90%;  }
+}

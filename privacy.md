@@ -15,7 +15,7 @@ In accordance with GDPR, this Data Privacy Notice outlines what is meant by pers
 Personal data relates to a living person who can be identified from that data. Identification can be by the information alone or in conjunction with any other information in the data contact person's possession or that is likely to come into such possession. The processing of personal data is governed by the General Data Protection Regulation (GDPR).
 
 **2. Who are we?**
-Under Data Protection legislation the church Charity Trustees of Dunfermline West Baptist Church are the Data Controller and can be contacted by ringing xxxxx xxxxxxxx or emailing trustees@dunfermlinewest.org 
+Under Data Protection legislation the church Charity Trustees of Dunfermline West Baptist Church are the Data Controller and can be contacted by emailing trustees@dunfermlinewest.org 
 
 **3. How and why do we process your data?**
 * We are collecting this information to enable the church to keep in touch with you and provide pastoral support as appropriate. 
@@ -26,14 +26,14 @@ Under Data Protection legislation the church Charity Trustees of Dunfermline Wes
 * To enable us to provide adequate pastoral support to you and your family, the Minister may record information which may be regarded as sensitive. This information will be stored in an encrypted (password protected) online area but the password will only be known by the Minister and Trustees. This information will NOT be disclosed to anyone else without your consent.
 
 **4. Online data storage**
-West Baptist Church use <Google Drive> to store any master data as outlined above. The data is stored in an encrypted format and can only be accessed via passwords controlled by West Baptist's Data Protection Trustee. You can view Google Drive's GDPR compliance at: …  Copies of the data may be backed up onto password protected computers accessed by the Ministers and Trustees. 
+West Baptist Church use Google Drive to store any master data as outlined above. The data is stored in an encrypted format and can only be accessed via passwords controlled by West Baptist's Data Protection Trustee. You can view Google Drive's GDPR compliance at: https://cloud.google.com/security/gdpr/  Copies of the data may be backed up onto password protected computers accessed by the Ministers and Trustees. 
 
 **5. Your rights and your personal data**
 * You have the right to ask to see any information we hold about you (including the pastoral support information) by submitting a 'Subject Access Request' to the Church Secretary. 
 * You also have the right to ask for information which you believe to be incorrect to be rectified. 
 * You can ask for your details to be removed at any time.
 
-If you are concerned about the way your information is being handled please speak to our Data Protection Trustee: <???>. If you are still unhappy you have the right to complain to the Information Commissioners Office.
+If you are concerned about the way your information is being handled please speak to our Data Protection Lead: Irene Gratton. If you are still unhappy you have the right to complain to the Information Commissioners Office.
 
 The Information Commissioner's Office
 43 Melville Street
