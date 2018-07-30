@@ -1,0 +1,228 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"marin",
+				"margin-left\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io"
+	],
+	"file_history":
+	[
+		"/C/Users/Luxtons/Documents/slides/override.css",
+		"/C/Users/Luxtons/Documents/slides/run.bat",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_includes/head.html",
+		"/C/Users/Luxtons/Documents/slides/slides.md",
+		"/C/Users/Luxtons/Documents/slides/reveal/plugin/external/external.js",
+		"/C/Users/Luxtons/Documents/slides/index.html",
+		"/C/Users/Luxtons/Documents/slides/songs/MP418.md",
+		"/C/Users/Luxtons/Documents/slides/songs/MP988.md",
+		"/C/Users/Luxtons/Documents/slides/songs/MP445.md",
+		"/C/Users/Luxtons/Documents/slides/songs/MP1086.md",
+		"/C/Users/Luxtons/Documents/slides/songs/MP995.md",
+		"/C/Users/Luxtons/Documents/slides/songs/MP1295.md",
+		"/C/Users/Luxtons/iCloudDrive/sermons & church/ppt/songs/MP1086.md",
+		"/C/Users/Luxtons/iCloudDrive/sermons & church/ppt/songs/MP445.md",
+		"/C/Users/Luxtons/Documents/slides/example.md",
+		"/C/Users/Luxtons/Documents/slides/reveal/js/reveal.js",
+		"/C/Users/Luxtons/iCloudDrive/sermons & church/ppt/songs/MP995.md",
+		"/C/Users/Luxtons/iCloudDrive/sermons & church/ppt/songs/MP1295.md",
+		"/C/Users/Luxtons/iCloudDrive/sermons & church/ppt/songs/MP418.md",
+		"/C/Users/Luxtons/iCloudDrive/sermons & church/ppt/songs/MP1295",
+		"/C/Users/Luxtons/iCloudDrive/sermons & church/ppt/songs/MP1086",
+		"/C/Users/Luxtons/iCloudDrive/sermons & church/ppt/songs/MP995",
+		"/C/Users/Luxtons/iCloudDrive/sermons & church/ppt/songs/MP988",
+		"/C/Users/Luxtons/iCloudDrive/sermons & church/ppt/songs/MP445",
+		"/C/Users/Luxtons/iCloudDrive/sermons & church/ppt/2018-05-27.md",
+		"/C/Users/Luxtons/Documents/slides/test.md",
+		"/C/Users/Luxtons/Documents/slides/marp.css",
+		"/C/Users/Luxtons/Documents/slides/reveal/index.html",
+		"/C/Users/Luxtons/Documents/slides/Gruntfile.js",
+		"/C/Users/Luxtons/iCloudDrive/sermons & church/ppt/2018-06-24.md",
+		"/C/Users/Luxtons/Documents/slides/reveal/exampleslides.md",
+		"/C/Users/Luxtons/Documents/slides/reveal/Gruntfile.js",
+		"/C/Users/Luxtons/Documents/slides/reveal/plugin/markdown/example.md",
+		"/C/Users/Luxtons/Documents/slides/reveal/demo.html",
+		"/C/Users/Luxtons/Documents/slides/reveal/plugin/markdown/example.html",
+		"/C/Users/Luxtons/Documents/slides/reveal/package.json",
+		"/C/Users/Luxtons/iCloudDrive/sermons & church/ppt/songs list.rtf"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"data-external",
+			"width"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "dunfermline.sublime-project-windows.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
