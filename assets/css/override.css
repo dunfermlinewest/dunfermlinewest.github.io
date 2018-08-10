@@ -15,6 +15,8 @@ section h2 { font-size: 2em; }
   padding-right: 0;
 }
 
+section.portfolio { padding-top: 0px; }
+
 @media (max-width: 768px) {
 	.navbar-custom { padding: 6px }
 	.nav-padding { padding-top: 75px ; } 
