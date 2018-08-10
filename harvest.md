@@ -10,7 +10,7 @@ You are warmly invited to our harvest celebration family service and community l
 
 We are pleased to be supporting two excellent charities this harvest:
  
- ### BMS - Life's first cry
+### BMS - Life's first cry
 
 "Life’s First Cry tells the incredible story of how we are helping to save lives in the
 remote mountain villages of Afghanistan. Hundreds of miles from Kabul, mothers
