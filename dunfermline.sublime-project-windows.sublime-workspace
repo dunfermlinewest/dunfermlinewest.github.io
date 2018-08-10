@@ -27,6 +27,57 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "dunfermline.sublime-project-windows.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/javascript.html",
+			"settings":
+			{
+				"buffer_size": 766,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 788,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 427,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_layouts/page.html",
+			"settings":
+			{
+				"buffer_size": 314,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 24,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -61,10 +112,14 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io"
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_includes",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_layouts"
 	],
 	"file_history":
 	[
+		"/C/Users/Luxtons/Desktop/church.scn",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_includes/header.html",
 		"/C/Users/Luxtons/Documents/slides/override.css",
 		"/C/Users/Luxtons/Documents/slides/run.bat",
 		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_includes/head.html",
@@ -138,8 +193,179 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "dunfermline.sublime-project-windows.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_includes/javascript.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								397,
+								397
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 788,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								361,
+								361
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_layouts/page.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								248
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_layouts/post.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 24,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -220,7 +446,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 269.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
