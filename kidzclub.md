@@ -1,31 +1,20 @@
 ---
-title: TEAMBUILDERS Kidz Club
-layout: default
-image: assets/img/teambuilders.jpg
+title: Dunfermline West Baptist Church Kidz Club
+layout: services
+image: assets/img/kidzclub.jpg
+bgcolor: "#1d83c1"
 permalink: "/kidzclub/"
 ---
 
 <div class="col-lg-12 text-normal">
-Local children are set for fun and games with the Kidz holiday club! Based on Scripture Union's TeamBuilders holiday club material, the club will be full of games, crafts, music, DVD presentations and Bible stories as the children learn about the value of teamwork in life and discover how to be part of Jesus' team.
+Local children are set for fun and games with the Kidz club!
 
-The holiday club runs from **10am to 4pm** on the **9th and 10th August** at Dunfermline West Baptist Church, Chalmers Street, KY12 8DG and is open to all children of Primary school age.
+<p class="bg-info"> "At Dunfermline West Baptist Church our aim is that young people will feel valued and loved as individuals. They are encouraged to explore our building, in all the nooks and crannies, so that they feel comfortable. We aspire to enable an environment where every child will build new lifelong relationships." - Rachel & Anthony Luxton</p>
 
-On **Saturday 11th August** friends and family are invited to a community lunch from **12pm to 2pm**.
+### Children's Club
+Every Sunday from 11am our children's church is the place to come and hang out and find out about the hope that we have in Jesus and the type of community that we aspire to.
 
-Leaders of the holiday club, Rachel and Anthony, are excited about the event.
-<p class="bg-info"> "We are looking forward to meeting everyone, having lots of fun, and exploring the Bible together"</p>
-
-### Lunch
-Lunch is not provided, therefore, any children who are staying for lunch (12:30pm to 1:30pm) will need to bring their own packed lunch.
-
-
-### Registration
-Children will be required to sign-in on arrival and sign-out as they leave. Registration is at 10am for the morning and 1.30pm for the afternoon session.
-
-
-Please register your child by downloading our consent form, filling it in and emailing it to <a href='mailto:enquiries@dunfermlinewest.org?subject=kidzclub'>enquiries@dunfermlinewest.org</a> or dropping it in at Dunfermline West Baptist Church.
-
-
-<a class="btn btn-primary btn-lg" href="{{ site.url }}/registration.docx" role="button" target='_blank'><span class="glyphicon glyphicon-list-alt"></span>&nbsp;Download Registration Form</a>
-<a class="btn btn-default btn-lg" href="{{ site.url }}/assets/files/team-builders-small.pdf" role="button" target='_blank'><span class="glyphicon glyphicon-picture"></span>&nbsp;Download Promotion Leaflet</a>
+### Holiday Clubs
+Over the summer holidays the local children enjoyed fun and games at our Teambuilders holiday club. Based on Scripture Union's TeamBuilders holiday club material, the club will be full of games, crafts, music, DVD presentations and Bible stories as the children learn about the value of teamwork in life and discover how to be part of Jesus' team.
+<p class='text-center'><img class='center img-responsive' src='/assets/img/teambuilders-small.jpg' alt='Teambuilders holiday club' /></p>
 </div>

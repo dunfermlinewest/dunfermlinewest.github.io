@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
 				"margin",
 				"margin-top\tproperty"
 			],
@@ -48,7 +52,8 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 788,
+				"buffer_size": 786,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
@@ -56,7 +61,34 @@
 			"file": "_layouts/default.html",
 			"settings":
 			{
-				"buffer_size": 427,
+				"buffer_size": 402,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_includes/portfolio.html",
+			"settings":
+			{
+				"buffer_size": 2119,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "harvest.md",
+			"settings":
+			{
+				"buffer_size": 1510,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/css/override.css",
+			"settings":
+			{
+				"buffer_size": 674,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -67,14 +99,6 @@
 			{
 				"buffer_size": 314,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_layouts/post.html",
-			"settings":
-			{
-				"buffer_size": 24,
 				"line_ending": "Windows"
 			}
 		}
@@ -114,7 +138,11 @@
 	[
 		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io",
 		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_includes",
-		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_layouts"
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_layouts",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/assets",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/assets/css",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/assets/img",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/assets/img/icons"
 	],
 	"file_history":
 	[
@@ -160,7 +188,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -193,7 +221,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -221,7 +249,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
@@ -258,15 +286,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 788,
+						"buffer_size": 786,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								113,
+								113
 							]
 						],
 						"settings":
@@ -286,15 +314,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 427,
+						"buffer_size": 402,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								361,
-								361
+								190,
+								190
 							]
 						],
 						"settings":
@@ -307,11 +335,97 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 4,
+					"file": "_includes/portfolio.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "harvest.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								337,
+								337
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "assets/css/override.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
 					"file": "_layouts/page.html",
 					"semi_transient": false,
 					"settings":
@@ -335,35 +449,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_layouts/post.html",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 24,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
+					"stack_index": 6,
 					"type": "text"
 				}
 			]
@@ -371,11 +457,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 28.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 40.0
 	},
 	"layout":
 	{
@@ -408,7 +494,7 @@
 	"project": "dunfermline.sublime-project-windows.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":

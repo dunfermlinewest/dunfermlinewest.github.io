@@ -1,10 +1,10 @@
 <!-- Header -->
-<header>
+<header style='{% if page.bgcolor %}background-color: {{ page.bgcolor }}{% endif %}'>
     <div class="container-fluid no-padding nav-padding">
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-12 text-center">
                 {% if page.image-link %}<a href='{{ page.image-link }}'>{% endif %}
-                {% if page.title %}<img class="img-responsive center" src="{{ site.url }}/{{ page.image }}" alt="">{% endif %}
+                {% if page.title %}<img class="center" src="{{ site.url }}/{{ page.image }}" alt="">{% endif %}
             {% if page.image-link %}</a>{% endif %}
             </div>
         </div>

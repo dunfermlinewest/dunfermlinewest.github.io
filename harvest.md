@@ -1,12 +1,15 @@
 ---
-title: Harvest celebration
-layout: default
-image: assets/img/harvest2018.jpg
+title: Dunfermline West Baptist Church Harvest celebration
+layout: services
+image: assets/img/harvest.jpg
+bgcolor: "#ba4c63"
 permalink: "/harvest/"
 ---
 
 <div class="col-lg-12 text-normal">
 You are warmly invited to our harvest celebration family service and community lunch on Sunday 16th September at 11am.
+
+<p class='text-center'><img class='center img-responsive' src='/assets/img/harvest2018-small.jpg' alt='Harvest celebration' /></p>
 
 We are pleased to be supporting two excellent charities this harvest:
  
@@ -24,3 +27,5 @@ and babies alive." <b>Sarah Stone</b> <a href='https://www.bmsworldmission.org/l
 
 
 If you have any questions please email us at <a href='mailto:enquiries@dunfermlinewest.org?subject=kidzclub'>enquiries@dunfermlinewest.org</a> or drop in at Dunfermline West Baptist Church.
+
+</div>
