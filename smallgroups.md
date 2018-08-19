@@ -9,7 +9,7 @@ permalink: "/smallgroups/"
 <div class="col-lg-12 text-normal">
 Following the school term Dunfermline West provides a weekly small group. The group meet regularly to share in discipleship of one another. Anybody is welcome.
 
-We are excited to be starting our new series <b>Life Explored</b> on <b>Wednesday 5th September at 7.30pm</b>.
+We are excited to be starting our new series <b>Life Explored</b> on <b>Wednesday 5th September at 7:00pm</b>.
 
 If you have any questions please email us at <a href='mailto:enquiries@dunfermlinewest.org?subject=kidzclub'>enquiries@dunfermlinewest.org</a> or drop in at Dunfermline West Baptist Church.
 
