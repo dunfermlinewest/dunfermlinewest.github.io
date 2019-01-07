@@ -32,74 +32,56 @@
 	"buffers":
 	[
 		{
-			"file": "dunfermline.sublime-project-windows.sublime-project",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 45,
+				"buffer_size": 816,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_includes/javascript.html",
+			"file": "_includes/navbar.html",
 			"settings":
 			{
-				"buffer_size": 766,
+				"buffer_size": 2666,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "index.html",
+			"file": "_includes/header.html",
 			"settings":
 			{
-				"buffer_size": 786,
+				"buffer_size": 539,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_layouts/default.html",
+			"file": "_includes/header-icon.html",
 			"settings":
 			{
-				"buffer_size": 402,
+				"buffer_size": 551,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_includes/portfolio.html",
+			"file": "events.md",
 			"settings":
 			{
-				"buffer_size": 2119,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"buffer_size": 639,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "harvest.md",
+			"file": "christmas-events.md",
 			"settings":
 			{
-				"buffer_size": 1510,
+				"buffer_size": 654,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "assets/css/override.css",
-			"settings":
-			{
-				"buffer_size": 674,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_layouts/page.html",
-			"settings":
-			{
-				"buffer_size": 314,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -136,16 +118,18 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io",
-		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_includes",
-		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_layouts",
-		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/assets",
-		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/assets/css",
-		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/assets/img",
-		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/assets/img/icons"
+		"/Users/antluxton/Sites/pi"
 	],
 	"file_history":
 	[
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/dunfermline.sublime-project-windows.sublime-project",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/_includes/javascript.html",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/_layouts/page.html",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/_layouts/default.html",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/_includes/portfolio.html",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/harvest.md",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/assets/css/override.css",
+		"/Users/antluxton/Google Drive/drive graphics/jpgs/website assets/christmas banner.jpg",
 		"/C/Users/Luxtons/Desktop/church.scn",
 		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_includes/header.html",
 		"/C/Users/Luxtons/Documents/slides/override.css",
@@ -188,11 +172,11 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 101.0,
 		"where_history":
 		[
 		]
@@ -221,56 +205,30 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "dunfermline.sublime-project-windows.sublime-project",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 45,
+						"buffer_size": 816,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								816,
+								816
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_includes/javascript.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 766,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								397,
-								397
-							]
-						],
-						"settings":
-						{
+							"remote_loading": false,
+							"synced": false,
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
@@ -281,25 +239,29 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "index.html",
+					"buffer": 1,
+					"file": "_includes/navbar.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 786,
+						"buffer_size": 2666,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								113,
-								113
+								2066,
+								2066
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -309,57 +271,27 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "_layouts/default.html",
+					"buffer": 2,
+					"file": "_includes/header.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 402,
+						"buffer_size": 539,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								190,
-								190
+								352,
+								366
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_includes/portfolio.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2119,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								76,
-								76
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -369,40 +301,42 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "harvest.md",
+					"buffer": 3,
+					"file": "_includes/header-icon.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1510,
+						"buffer_size": 551,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								337,
-								337
+								379,
+								379
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "assets/css/override.css",
+					"buffer": 4,
+					"file": "events.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 674,
+						"buffer_size": 639,
 						"regions":
 						{
 						},
@@ -415,41 +349,45 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "_layouts/page.html",
+					"buffer": 5,
+					"file": "christmas-events.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 314,
+						"buffer_size": 654,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								248,
-								248
+								59,
+								59
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -457,7 +395,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 24.0
 	},
 	"input":
 	{
@@ -490,11 +428,15 @@
 	{
 		"height": 0.0
 	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
 	"pinned_build_system": "",
 	"project": "dunfermline.sublime-project-windows.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 44.0
 	},
 	"save_all_on_build": true,
 	"select_file":
