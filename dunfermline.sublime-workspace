@@ -28,101 +28,30 @@
 	"buffers":
 	[
 		{
-			"file": "community-cinema.md",
+			"file": "winter-events.md",
 			"settings":
 			{
-				"buffer_size": 902,
+				"buffer_size": 639,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "coffee-morning.md",
-			"settings":
-			{
-				"buffer_size": 730,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_includes/navbar.html",
-			"settings":
-			{
-				"buffer_size": 2489,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_includes/portfolio.html",
-			"settings":
-			{
-				"buffer_size": 3869,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_includes/header.html",
-			"settings":
-			{
-				"buffer_size": 462,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 792,
+				"buffer_size": 810,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "kidzclub.md",
-			"settings":
-			{
-				"buffer_size": 1311,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "smallgroups.md",
-			"settings":
-			{
-				"buffer_size": 1494,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Luxtons/Documents/slides/slides.md",
-			"settings":
-			{
-				"buffer_size": 802,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "harvest.md",
-			"settings":
-			{
-				"buffer_size": 1698,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "assets/css/override.css",
 			"settings":
 			{
-				"buffer_size": 924,
+				"buffer_size": 938,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -158,16 +87,20 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io",
-		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_includes",
-		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_layouts",
-		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/assets",
-		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/assets/css",
-		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/assets/img",
-		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/assets/img/icons"
+		"/Users/antluxton/Sites/dunfermlinewest.github.io"
 	],
 	"file_history":
 	[
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/harvest.md",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/community-cinema.md",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/coffee-morning.md",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/_includes/navbar.html",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/_includes/portfolio.html",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/_includes/header.html",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/index.html",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/kidzclub.md",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/smallgroups.md",
+		"/C/Users/Luxtons/Documents/slides/slides.md",
 		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/smallgroups.md",
 		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/worship-services.md",
 		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/index.html",
@@ -217,228 +150,29 @@
 	"groups":
 	[
 		{
-			"selected": 8,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "community-cinema.md",
+					"file": "winter-events.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 902,
+						"buffer_size": 639,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								902
+								92,
+								98
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "coffee-morning.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 730,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								443,
-								443
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_includes/navbar.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2489,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1709,
-								1709
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 80.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_includes/portfolio.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3869,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2193,
-								2193
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 564.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_includes/header.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 462,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								296,
-								296
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 792,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								94,
-								94
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "kidzclub.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1311,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								148,
-								148
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "smallgroups.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1494,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								337,
-								337
-							]
-						],
-						"settings":
-						{
+							"incomplete_sync": null,
 							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
@@ -449,12 +183,43 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
-					"file": "/C/Users/Luxtons/Documents/slides/slides.md",
+					"buffer": 1,
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 802,
+						"buffer_size": 810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								130,
+								130
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/css/override.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 938,
 						"regions":
 						{
 						},
@@ -467,69 +232,15 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "harvest.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1698,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1698,
-								1698
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 388.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "assets/css/override.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 924,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								147,
-								147
-							]
-						],
-						"settings":
-						{
+							"remote_loading": false,
+							"synced": false,
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -567,6 +278,10 @@
 	},
 	"menu_visible": true,
 	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
 	{
 		"height": 0.0
 	},
