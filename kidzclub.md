@@ -1,8 +1,6 @@
 ---
 title: Dunfermline West Baptist Church Kidz Club
 layout: services
-image: assets/img/kidzclub.jpg
-bgcolor: "#1d83c1"
 permalink: "/kidzclub/"
 ---
 
