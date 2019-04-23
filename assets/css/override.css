@@ -7,6 +7,7 @@ header img { margin: 0;  }
 img.center { margin: 0 auto !important;  } 
 .nav-padding { padding-top: 110px; }
 .nav-padding-extra { padding-top: 140px; }
+p { font-size: 18px;  }
 .text-normal p { font-size: 15px;  }
 
 .dropdown-menu  { background-color: #2c3e50; }
