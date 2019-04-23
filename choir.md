@@ -25,10 +25,3 @@ permalink: "/choir/"
 ### History Makers
 <p class='text-center'><img class='center img-responsive' src='/assets/img/abaana-poster-HD.jpg' alt='Abaana New Life Choir' /></p>
 </div>
-<div class='col-md-6'>
-### Watch the trailer
-{% raw %}
-<iframe width="90%" height="250" src="https://www.youtube.com/embed/sKZ_DmXIj6E" frameborder="0" allowfullscreen></iframe>
-{% endraw %}
-
-</div>
