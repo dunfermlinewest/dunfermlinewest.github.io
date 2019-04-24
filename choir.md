@@ -9,7 +9,7 @@ permalink: "/choir/"
 
 <p>We are excited to announce that on the 4th May, at 7pm, the Abaana New Life Choir will be coming to perform for us, here at Dunfermline West Baptist Church. Don't miss the opportunity to see this incredible group of Ugandan children performing live.</p>
 
-<p>Free entry, ensure that you have booked a place at <a href='https://www.eventbrite.co.uk/e/abaana-new-life-choir-dunfermline-west-baptist-tickets-60754086107' target='_blank'>Reserve your space at eventbrite.</a></p>
+<p>Free entry, ensure that you have reserved a place at <a href='https://www.eventbrite.co.uk/e/abaana-new-life-choir-dunfermline-west-baptist-tickets-60754086107' target='_blank'>eventbrite.</a></p>
 
 <p>If you have any questions please email us at <a href='mailto:enquiries@dunfermlinewest.org?subject=kidzclub'>enquiries@dunfermlinewest.org</a> or drop in at Dunfermline West Baptist Church.</p>
 </div>
