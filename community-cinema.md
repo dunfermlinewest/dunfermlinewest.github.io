@@ -9,7 +9,7 @@ permalink: "/community-cinema/"
 <div class="col-lg-12 text-normal">
 Watch movies on the big screen at the Dunfermline West Community cinema.
 
-The community cinema is on the second Saturday of each month at 10.20am. Movie, theatre, and concert lovers will be able to enjoy their favourite shows on our High Definition big screen and with our immersive sound system.
+The community cinema is on the second Saturday of each month at 10.30am. Movie, theatre, and concert lovers will be able to enjoy their favourite shows on our High Definition big screen and with our immersive sound system.
 
 Bring your own snacks and enjoy mingling with other people in the community. All at no cost.
 
