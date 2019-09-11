@@ -13,6 +13,8 @@ permalink: "/worship-links/"
 
 <a href='https://docs.google.com/document/d/14Nx-jXcwMc3a35GxqmeF0BX785l61_2ByyWMOF2Kh5E/edit?usp=sharing'>Preaching Plan</a>
 
+<a href='https://docs.google.com/spreadsheets/d/1_6gp_EasKmd2hSSa80GQlpQFxNN83fa9iB9Z94COCLc/edit#gid=0'>Rota</a>
+
 <a href='https://docs.google.com/spreadsheets/d/1zbhIrMK_Asw-M8NYOXWS5SCh4odro964lndWQTlkMGI/edit?usp=sharing'>Master list of songs</a>
 
 
