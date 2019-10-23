@@ -11,26 +11,19 @@ Dunfermline West Baptist church meets every <b>Sunday at 11:00am</b> to worship 
 
 The church engages a diverse range of speakers. 
 
-The minister Anthony Luxton is currently preaching on The Sermon on the mount which centers on the Lord's Prayer:
+The minister Anthony Luxton is currently preaching on the theme mission and hospitality.
 
-<p class="bg-info">This, then, is how you should pray:<br />
-<br />
-‘Our Father in heaven,<br />
-hallowed be your name,<br />
-your kingdom come,<br />
-your will be done,<br />
-    on earth as it is in heaven.<br />
-Give us today our daily bread.<br />
-And forgive us our debts,<br />
-    as we also have forgiven our debtors.<br />
-And lead us not into temptation,<br />
-    but deliver us from the evil one.
-<br /><b>Matthew 6:9-13</b></p>
+<p class="bg-info">
+	<strong>Acts 2 verses 44 to 47.</strong>
+All who believed were together and had all things in common; they would sell their possessions and goods and distribute the proceeds to all, as any had need. Day by day, as they spent much time together in the temple, they broke bread at home and ate their food with glad and generous[l] hearts, praising God and having the goodwill of all the people. And day by day the Lord added to their number those who were being saved.
+</p>
 
-The series is exploring Jesus' sermon, the greatest sermon ever recorded. The previous sermon series was on <a href='{{ site.url }}/apest.md'>APEST (Ephesians 4:11)</a>>
+The previous sermon series were on:
+- Sermon on the mount
+- <a href='{{ site.url }}/apest.md'>APEST (Ephesians 4:11)</a>>
 
 <p>
-If you have any questions please email us at <a href='mailto:enquiries@dunfermlinewest.org?subject=kidzclub'>enquiries@dunfermlinewest.org</a> or drop in at Dunfermline West Baptist Church.
+If you have any questions please email us at <a href='mailto:enquiries@dunfermlinewest.org'>enquiries@dunfermlinewest.org</a> or drop in at Dunfermline West Baptist Church.
 </p>
 
 </div>
