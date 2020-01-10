@@ -11,6 +11,8 @@ permalink: "/worship-links/"
 
 <a href='https://docs.google.com/document/d/1ppBBnu8IjOfGzRMKdI06MKlpyPkNzqz7VOyAcBUM_Ys/edit?usp=sharing'>Weekly order of service</a>
 
+<a href='https://docs.google.com/document/d/12w9iDJ9BFKvLvsDdESlGlOPgmYBB5hP-zUyY1tMCg4c/edit?usp=sharing'>Carol Service - order of service</a>
+
 <a href='https://docs.google.com/document/d/14Nx-jXcwMc3a35GxqmeF0BX785l61_2ByyWMOF2Kh5E/edit?usp=sharing'>Preaching Plan</a>
 
 <a href='https://docs.google.com/spreadsheets/d/1_6gp_EasKmd2hSSa80GQlpQFxNN83fa9iB9Z94COCLc/edit#gid=0'>Rota</a>
