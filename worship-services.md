@@ -1,12 +1,14 @@
 ---
 title: Dunfermline West Weekly Worship Services
 layout: services
-image: assets/img/icons/worshipserviceicon.jpg
 bgcolor: "#fff"
 permalink: "/worship-services/"
 ---
 
-<div class="col-lg-12 text-normal">
+<div class="col-sm-4">
+<img src='{{ site.url }}/assets/img/icons/worshipserviceicon.jpg' class='img-responsive' />	
+</div>
+<div class="col-sm-8 text-normal">
 Dunfermline West Baptist church meets every <b>Sunday at 11:00am</b> to worship God. Anybody is welcome to the service which may include praise, contemplation, family news, prayer and learning.
 
 The church engages a diverse range of speakers. 

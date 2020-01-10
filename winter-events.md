@@ -1,7 +1,6 @@
 ---
 title: Dunfermline West Baptist Church Winter Events
 layout: services
-image: assets/img/winter-banner.jpg
 bgcolor: "#FFF"
 permalink: "/winter-events/"
 ---
