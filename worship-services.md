@@ -13,14 +13,15 @@ Dunfermline West Baptist church meets every <b>Sunday at 11:00am</b> to worship 
 
 The church engages a diverse range of speakers. 
 
-The minister Anthony Luxton is currently preaching on the theme mission and hospitality.
+The minister Anthony Luxton is currently preaching on the 1 & 2 Samuel: Choose your King.
 
 <p class="bg-info">
-	<strong>Acts 2 verses 44 to 47.</strong>
-All who believed were together and had all things in common; they would sell their possessions and goods and distribute the proceeds to all, as any had need. Day by day, as they spent much time together in the temple, they broke bread at home and ate their food with glad and generous[l] hearts, praising God and having the goodwill of all the people. And day by day the Lord added to their number those who were being saved.
+	<strong>Judges 8:22-23</strong>
+The Israelites said to Gideon, “Rule over us, you and your son and your grandson also; for you have delivered us out of the hand of Midian.”  Gideon said to them, “I will not rule over you, and my son will not rule over you; the Lord will rule over you.”
 </p>
 
 The previous sermon series were on:
+- <a href='{{ site.url }}/mission-hospitality.md'>Mission and Hospitality</a>>
 - Sermon on the mount
 - <a href='{{ site.url }}/apest.md'>APEST (Ephesians 4:11)</a>>
 
