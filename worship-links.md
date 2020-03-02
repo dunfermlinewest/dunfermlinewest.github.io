@@ -19,5 +19,8 @@ permalink: "/worship-links/"
 
 <a href='https://docs.google.com/spreadsheets/d/1zbhIrMK_Asw-M8NYOXWS5SCh4odro964lndWQTlkMGI/edit?usp=sharing'>Master list of songs</a>
 
+<a href='https://calendar.google.com/calendar/embed?src=dunfermlinewest.co.uk_7gp9qiqqejtv9vd3319uepa4ec%40group.calendar.google.com&ctz=Europe%2FLondon'>Church Calendar</a>
+
+<iframe src="https://calendar.google.com/calendar/embed?src=dunfermlinewest.co.uk_7gp9qiqqejtv9vd3319uepa4ec%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 </div>
