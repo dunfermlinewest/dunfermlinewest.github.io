@@ -3,7 +3,7 @@ title: Dunfermline West Weekly Worship Services
 layout: services
 image: assets/img/worshipservice.jpg
 bgcolor: "#bf1dc1"
-permalink: "/worship-services/"
+permalink: "/apest/"
 ---
 
 <div class="col-lg-12 text-normal">

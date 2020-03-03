@@ -21,9 +21,9 @@ The Israelites said to Gideon, “Rule over us, you and your son and your grands
 </p>
 
 The previous sermon series were on:
-- <a href='{{ site.url }}/mission-hospitality.md'>Mission and Hospitality</a>>
+- <a href='{{ site.url }}/mission-hospitality/'>Mission and Hospitality</a>
 - Sermon on the mount
-- <a href='{{ site.url }}/apest.md'>APEST (Ephesians 4:11)</a>>
+- <a href='{{ site.url }}/apest/'>APEST (Ephesians 4:11)</a>
 
 <p>
 If you have any questions please email us at <a href='mailto:enquiries@dunfermlinewest.org'>enquiries@dunfermlinewest.org</a> or drop in at Dunfermline West Baptist Church.
