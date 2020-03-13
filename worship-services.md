@@ -26,6 +26,9 @@ The previous sermon series were on:
 - <a href='{{ site.url }}/apest/'>APEST (Ephesians 4:11)</a>
 
 <p>
+<p>
+<a class='btn btn-primary' href='{{ site.url }}/videos/' alt='View sermons'>Click here to listen to our sermons</a>
+</p>
 If you have any questions please email us at <a href='mailto:enquiries@dunfermlinewest.org'>enquiries@dunfermlinewest.org</a> or drop in at Dunfermline West Baptist Church.
 </p>
 

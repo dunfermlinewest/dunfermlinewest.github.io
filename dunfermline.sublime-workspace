@@ -28,19 +28,10 @@
 	"buffers":
 	[
 		{
-			"file": "spring-events.md",
-			"settings":
-			{
-				"buffer_size": 687,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1229,
+				"buffer_size": 1218,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -49,34 +40,25 @@
 			"file": "worship-links.md",
 			"settings":
 			{
-				"buffer_size": 731,
+				"buffer_size": 1294,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_includes/navbar.html",
+			"file": "worship-services.md",
 			"settings":
 			{
-				"buffer_size": 2679,
+				"buffer_size": 1315,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "assets/css/override.css",
+			"file": "apest.md",
 			"settings":
 			{
-				"buffer_size": 1027,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/header-icon.html",
-			"settings":
-			{
-				"buffer_size": 551,
+				"buffer_size": 1519,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -119,27 +101,29 @@
 		"/Users/antluxton/Sites/dunfermlinewest.github.io/_layouts",
 		"/Users/antluxton/Sites/dunfermlinewest.github.io/assets",
 		"/Users/antluxton/Sites/dunfermlinewest.github.io/assets/css",
-		"/Users/antluxton/Sites/dunfermlinewest.github.io/assets/files",
-		"/Users/antluxton/Sites/dunfermlinewest.github.io/assets/img"
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/assets/files"
 	],
 	"file_history":
 	[
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/community-cinema.md",
 		"/Users/antluxton/Sites/dunfermlinewest.github.io/worship-services.md",
-		"/Users/antluxton/Sites/dunfermlinewest.github.io/autumn-events.md",
-		"/Users/antluxton/Sites/dunfermlinewest.github.io/_includes/navbar.html",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/choose-your-king.md",
 		"/Users/antluxton/Sites/dunfermlinewest.github.io/mission-hospitality.md",
-		"/Users/antluxton/Sites/dunfermlinewest.github.io/praise-evenings.md",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/_includes/navbar.html",
 		"/Users/antluxton/Sites/dunfermlinewest.github.io/assets/css/override.css",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/kidzclub.md",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/winter-events.md",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/spring-events.md",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/worship-links.md",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/_includes/header-icon.html",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/autumn-events.md",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/praise-evenings.md",
 		"/Users/antluxton/Sites/dunfermlinewest.github.io/choir.md",
 		"/Users/antluxton/Downloads/Episode 35, John the Baptist and the Maccabean Revolt - Opening Up the Gospels-zmubEJyia80.txt",
-		"/Users/antluxton/Sites/dunfermlinewest.github.io/community-cinema.md",
-		"/Users/antluxton/Sites/dunfermlinewest.github.io/worship-links.md",
 		"/Users/antluxton/Sites/dunfermlinewest.github.io/_includes/head.html",
 		"/Users/antluxton/Sites/dunfermlinewest.github.io/_layouts/private.html",
 		"/Users/antluxton/Sites/dunfermlinewest.github.io/privacy.md",
-		"/Users/antluxton/Sites/dunfermlinewest.github.io/winter-events.md",
 		"/Users/antluxton/Sites/dunfermlinewest.github.io/easter-events.md",
-		"/Users/antluxton/Sites/dunfermlinewest.github.io/kidzclub.md",
 		"/Users/antluxton/Sites/dunfermlinewest.github.io/_includes/portfolio.html",
 		"/Users/antluxton/Sites/dunfermlinewest.github.io/index.html",
 		"/Users/antluxton/Sites/dunfermlinewest.github.io/coffee-morning.md",
@@ -201,55 +185,24 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "spring-events.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 687,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								687,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1229,
+						"buffer_size": 1218,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1228,
-								1228
+								613,
+								873
 							]
 						],
 						"settings":
@@ -269,20 +222,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "worship-links.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 731,
+						"buffer_size": 1294,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								731,
-								731
+								1231,
+								1231
 							]
 						],
 						"settings":
@@ -296,24 +249,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "_includes/navbar.html",
+					"buffer": 2,
+					"file": "worship-services.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2679,
+						"buffer_size": 1315,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								685,
-								685
+								1041,
+								1041
 							]
 						],
 						"settings":
@@ -321,9 +274,7 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -333,20 +284,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "assets/css/override.css",
+					"buffer": 3,
+					"file": "apest.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1027,
+						"buffer_size": 1519,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								252,
-								252
+								143,
+								143
 							]
 						],
 						"settings":
@@ -354,44 +305,13 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_includes/header-icon.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 551,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								385,
-								385
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -478,7 +398,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 359.0,
+	"side_bar_width": 262.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
