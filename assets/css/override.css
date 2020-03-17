@@ -19,7 +19,7 @@ p { font-size: 18px;  }
 .dropdown-menu a:hover { text-decoration: none; }
 
 section h2 { font-size: 2em; }
-.bg-info { padding: 15px; }
+.bg-info, .bg-danger { padding: 15px; }
 
 .no-padding {
   padding-left: 0;
@@ -48,3 +48,5 @@ section.portfolio { padding-top: 0px; }
 	.nav-padding-extra { padding-top: 105px; }
 	.navbar-brand img { height: 90%;  }
 }
+
+.center { text-align: center; display: block; }
