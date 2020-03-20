@@ -14,7 +14,7 @@ timezone: Europe/London
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: http://127.0.0.1:80/
 logo: /assets/img/logo.png
-url: "https://dunfermlinewest.org" # the base hostname & protocol for your site
+url: "http://dunfermlinewest.org" # the base hostname & protocol for your site
 #plugins:
 #    - jekyll-admin
 
@@ -39,4 +39,4 @@ address_zip: KY12 8DG
 markdown: kramdown
 
 kramdown:
-  parse_block_html: false
+  parse_block_html: true
