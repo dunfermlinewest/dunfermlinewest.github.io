@@ -7,7 +7,7 @@ permalink: "/online/"
 ---
 
 <div class="col-lg-12 text-normal">
-<p class='bg-info'>You are at the right place to gather with us. This page will be updated each event to provide the order and service and guidance for our upcoming gatherings.</p>
+<p class='bg-info'>You are at the right place to gather with us. This page will be updated each event to provide the order of service and guidance for our upcoming gatherings.</p>
 
 ## Sunday 22nd March
 
