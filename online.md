@@ -1,5 +1,5 @@
 ---
-title: Stay Connected
+title: Sunday 22nd March Live
 layout: services
 image: assets/img/worship-banner.jpg
 bgcolor: "#bf1dc1"
@@ -7,9 +7,7 @@ permalink: "/online/"
 ---
 
 <div class="col-lg-12 text-normal">
-<p class='bg-info'>You are at the right place to gather with us. This page will be updated each event to provide the order of service and guidance for our upcoming gatherings.</p>
-
-## Sunday 22nd March
+## Gather with us
 
 Welcome to our online service. We have tried our hardest to make this experience as easy as possible. The fact you are reading this means that you have made the first step.
 
