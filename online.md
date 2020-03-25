@@ -15,10 +15,10 @@ Welcome to our online prayer gathering. The prayer time will begin at 11:00am wi
 2. Let us pray together for those who are suffering with illness across the globe.
 3. Let us pray together for our communities and particularly those who are afraid and isolated
 4. Let us commit this pandemic into God's hands seeking his will on how we can be a light in the darkness.
-<b>Any other time</b>> Let us never stop praying!
+<b>Any other time</b> Let us never stop praying!
 
 <span class='center'>
-                        <a href='https://www.facebook.com/dunfermlinewest/videos' class="btn btn-xl btn-success call2action mt-4" target='_blank'>Click here to join our live prayer/a>
+                        <a href='https://www.facebook.com/dunfermlinewest/videos' class="btn btn-xl btn-success call2action mt-4" target='_blank'>Click here to join our live prayer</a>
 </span>
 
 
