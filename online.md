@@ -7,6 +7,23 @@ permalink: "/online/"
 ---
 
 <div class="col-lg-12 text-normal">
+## Wednesday 1st April - Prayer
+
+Welcome to our online prayer gathering. The prayer time will begin at 11:00am with a short reflection from our pastor Anthony. He will then lead us in prayer using the following format:
+
+1. Let us pray together for global leaders, local leaders and essential services
+2. Let us pray together for those who are suffering with illness across the globe.
+3. Let us pray together for our communities and particularly those who are afraid and isolated
+4. Let us commit this pandemic into God's hands seeking his will on how we can be a light in the darkness.
+<b>Any other time</b> Let us never stop praying!
+
+<span class='center'>
+                        <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-success call2action mt-4" target='_blank'>Click here to join our live prayer</a>
+                        <a href='https://youtu.be/vSB-MuwYTno' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
+</span>
+
+
+<br />
 
 ## Sunday 29th March
 
