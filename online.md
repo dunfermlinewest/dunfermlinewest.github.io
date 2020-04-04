@@ -11,7 +11,9 @@ permalink: "/online/"
 
 Welcome to our online service. We have tried our hardest to make this experience as easy as possible. The fact you are reading this means that you have made the first step.
 
-The service will begin with a live video being led by Anthony. He will then guide you through the rest of the service. Today, Anthony will be <b>leading communion</b>. If you would like to partake you might like to prepare some bread and juice/wine in advance. 
+The service will begin with a live video being led by Anthony. He will then guide you through the rest of the service. 
+
+Today, Anthony will be <b>leading communion</b>. If you would like to partake you might like to prepare some bread and juice/wine in advance. 
 
 Join in the worship live starting at 11:00am (by clicking on either of the links below):
 
@@ -21,11 +23,12 @@ Join in the worship live starting at 11:00am (by clicking on either of the links
 </span>
 
 
-* Not sure which link to click? Don't worry they will both take you to the live stream. Facebook is a bit easier to join in the chat and Youtube is a bit more robust.
+<b>Not sure which link to click?</b> Don't worry they will both take you to the live stream. Facebook is a bit easier to join in the chat and Youtube is a bit more robust.
+
 
 After the service we like to join together for a chat with a cup of tea. To join in simply follow the video meeting or telephone meeting details in our stay connected document.
 
-<a href='https://dunfermlinewest.org/assets/files/dwbc-stay-connected.v4.pdf'>View our latest stay connected document</a>
+<a href='https://dunfermlinewest.org/assets/files/dwbc-stay-connected.v4.pdf' target='_blank'>View our latest stay connected document</a>
 
 <hr/>
 ## Making an offering
