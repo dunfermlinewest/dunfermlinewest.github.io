@@ -11,9 +11,12 @@ permalink: "/online/"
 
 Welcome to our online service. We have tried our hardest to make this experience as easy as possible. The fact you are reading this means that you have made the first step.
 
+
 The service will begin with a live video being led by Anthony. He will then guide you through the rest of the service. 
 
+
 Today, Anthony will be <b>leading communion</b>. If you would like to partake you might like to prepare some bread and juice/wine in advance. 
+
 
 Join in the worship live starting at 11:00am (by clicking on either of the links below):
 
