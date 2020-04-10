@@ -15,7 +15,7 @@ Welcome to our joint online Good Friday service with Rosyth Baptist Church. We h
 Join in the worship live starting at 14:00am (by clicking on either of the links below):
 
 <span class='center'>
-                        <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-success call2action mt-4" target='_blank'>Click here to join our live prayer</a>
+                        <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-success call2action mt-4" target='_blank'>Click here to join our Good Friday service on Facebook</a>
                         <a href='https://youtu.be/TBtNeoU9QKs' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
 </span>
 
