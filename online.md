@@ -7,22 +7,19 @@ permalink: "/online/"
 ---
 
 <div class="col-lg-12 text-normal">
+
+
 ## Wednesday 8th April - Prayer
+Welcome to our joint online Good Friday service with Rosyth Baptist Church. We have tried our hardest to make this experience as easy as possible. The fact you are reading this means that you have made the first step.
 
-Welcome to our online prayer gathering. The prayer time will begin at 11:00am with a short reflection from our pastor Anthony. He will then lead us in prayer using the following format:
-
-1. Let us pray together for global leaders, local leaders and essential services
-2. Let us pray together for those who are suffering with illness across the globe.
-3. Let us pray together for our communities and particularly those who are afraid and isolated
-4. Let us commit this pandemic into God's hands seeking his will on how we can be a light in the darkness.
-<b>Any other time</b> Let us never stop praying!
+Join in the worship live starting at 14:00am (by clicking on either of the links below):
 
 <span class='center'>
                         <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-success call2action mt-4" target='_blank'>Click here to join our live prayer</a>
-                        <a href='https://youtu.be/QK-Yjv8fV38' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
+                        <a href='https://youtu.be/TBtNeoU9QKs' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
 </span>
 
-## Sunday 5th April - Palm Sunday
+## Sunday 9th April - Easter Sunday
 
 Welcome to our online service. We have tried our hardest to make this experience as easy as possible. The fact you are reading this means that you have made the first step.
 
