@@ -9,7 +9,7 @@ permalink: "/online/"
 <div class="col-lg-12 text-normal">
 
 
-## Wednesday 8th April - Prayer
+## Friday 10th April - Prayer
 Welcome to our joint online Good Friday service with Rosyth Baptist Church. We have tried our hardest to make this experience as easy as possible. The fact you are reading this means that you have made the first step.
 
 Join in the worship live starting at 14:00am (by clicking on either of the links below):
