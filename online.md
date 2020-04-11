@@ -8,33 +8,18 @@ permalink: "/online/"
 
 <div class="col-lg-12 text-normal">
 
-
-## Friday 10th April - Prayer
-Welcome to our joint online Good Friday service with Rosyth Baptist Church. We have tried our hardest to make this experience as easy as possible. The fact you are reading this means that you have made the first step.
-
-Join in the worship live starting at 14:00am (by clicking on either of the links below):
-
-<span class='center'>
-                        <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-success call2action mt-4" target='_blank'>Click here to join our Good Friday service on Facebook</a>
-                        <a href='https://youtu.be/TBtNeoU9QKs' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
-</span>
-
-## Sunday 9th April - Easter Sunday
+## Sunday 12th April - Resurrection Sunday
 
 Welcome to our online service. We have tried our hardest to make this experience as easy as possible. The fact you are reading this means that you have made the first step.
 
 
 The service will begin with a live video being led by Anthony. He will then guide you through the rest of the service. 
 
-
-Today, Anthony will be <b>leading communion</b>. If you would like to partake you might like to prepare some bread and juice/wine in advance. 
-
-
 Join in the worship live starting at 11:00am (by clicking on either of the links below):
 
 <span class='center'>
                         <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-success call2action mt-4" target='_blank'>View live on Facebook</a>
-                        <a href='https://youtu.be/q--JB873j-w' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
+                        <a href='https://youtu.be/klvTupVsrzk' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
 </span>
 
 
