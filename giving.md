@@ -1,14 +1,12 @@
 ---
-title: Live Gatherings
+title: Making donations to our church
 layout: services
-image: assets/img/worship-banner.jpg
+#image: assets/img/worship-banner.jpg
 bgcolor: "#bf1dc1"
-permalink: "/online/"
+permalink: "/giving/"
 ---
 
 <div class="col-lg-12 text-normal">
-
-## Giving to our church
 
 As a charity we rely on the generosity of our community to offer various services to the community in the name of Christ. For many Christians the act of giving is an important part of their worship. If you would like to make a donation to the church today you can do this in several ways:
 
@@ -21,6 +19,8 @@ As a charity we rely on the generosity of our community to offer various service
 <script>
 var tw = create_tithely_widget();
 </script>
+
+<hr />
 
 <p>
 If you have any questions please email us at <a href='mailto:enquiries@dunfermlinewest.org?subject=kidzclub'>enquiries@dunfermlinewest.org</a> or drop in at Dunfermline West Baptist Church.
