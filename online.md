@@ -2,7 +2,7 @@
 title: Live Gatherings
 layout: services
 image: assets/img/worship-banner.jpg
-bgcolor: "#bf1dc1"
+bgcolor: "#fff"
 permalink: "/online/"
 ---
 
