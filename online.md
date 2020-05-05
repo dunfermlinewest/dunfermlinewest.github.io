@@ -7,18 +7,34 @@ permalink: "/online/"
 ---
 
 <div class="col-lg-12 text-normal">
-## Sunday 3rd May
+## Wednesday 6th May - Pray together
+
+Welcome to our online prayer gathering. The prayer time will begin at 11:00am with a short reflection by Finbar Rickman. He will then lead us in prayer using the following format:
+
+1. Let us pray together for global leaders, local leaders and essential services
+2. Let us pray together for those who are suffering with illness across the globe.
+3. Let us pray together for our communities and particularly those who are afraid and isolated
+4. Let us commit this pandemic into God's hands seeking his will on how we can be a light in the darkness.
+<b>Any other time</b> Let us never stop praying!
+
+
+<span class='center'>
+                        <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-success call2action mt-4" target='_blank'>Click here to join our live prayer</a>
+                        <a href='https://youtu.be/4nY_hNb0fZQ' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
+</span>
+
+## Sunday 10th May
 
 Welcome to our online service. We have tried our hardest to make this experience as easy as possible. The fact you are reading this means that you have made the first step.
 
 
-The service will begin with a live video being led by Anthony. He will then guide you through the rest of the service including communion. You might like to prepare some wine and juice/wine in advance.
+The service will begin with a live video being led by Anthony. He will then guide you through the rest of the service.
 
 Join in the worship live starting at 11:00am (by clicking on either of the links below):
 
 <span class='center'>
                         <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-success call2action mt-4" target='_blank'>View live on Facebook</a>
-                        <a href='https://youtu.be/1RnSREnE7C0' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
+                        <a href='https://youtu.be/6NnQfYPRfho' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
 </span>
 
 
@@ -63,20 +79,6 @@ Simply press play and listen to the songs selected by our worship team. Why not 
 If you have any questions please email us at <a href='mailto:enquiries@dunfermlinewest.org?subject=kidzclub'>enquiries@dunfermlinewest.org</a> or drop in at Dunfermline West Baptist Church.
 </p>
 
-## Wednesday 29th April - Pray together
 
-Welcome to our online prayer gathering. The prayer time will begin at 11:00am with a short reflection by Finbar Rickman. He will then lead us in prayer using the following format:
-
-1. Let us pray together for global leaders, local leaders and essential services
-2. Let us pray together for those who are suffering with illness across the globe.
-3. Let us pray together for our communities and particularly those who are afraid and isolated
-4. Let us commit this pandemic into God's hands seeking his will on how we can be a light in the darkness.
-<b>Any other time</b> Let us never stop praying!
-
-
-<span class='center'>
-                        <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-success call2action mt-4" target='_blank'>Click here to join our live prayer</a>
-                        <a href='https://youtu.be/CcvROjCOzME' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
-</span>
 
 </div>
