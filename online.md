@@ -10,12 +10,13 @@ permalink: "/online/"
 Welcome to our home page for Dunfermline West Baptist Online. We have tried our hardest to make this experience as easy as possible. The fact you are reading this means that you have made the first step. 
 
 Use the following links to explore our online gatherings:
-
+<span class='center'>
 <a href='#weeklyservice' title='Weekly Sunday Service' class='onlineicon live'>Weekly Sunday Service</a>
 <a href='#weeklyprayer' title='Weekly Prayer' class='onlineicon prayer'>Weekly Prayer</a>
 <a href='#sharing' title='Sharing the good news online' class='onlineicon sharing'>Sharing the good news online</a>
 <a href='#offering' title='Making an offering'  class='onlineicon giving'>Making an offering</a>
 <a href='#playlist' title='Worship Playlist'  class='onlineicon worship'>Worship Playlist</a>
+</span>
 
 
 <a id="weeklyservice"></a>
@@ -38,7 +39,7 @@ Join in the worship live starting at 11:00am (by clicking on either of the links
 
 After the service we like to join together for a chat with a cup of tea. To join in simply follow the video meeting or telephone meeting details in our stay connected document.
 
-<a href='https://dunfermlinewest.org/assets/files/dwbc-stay-connected.v4.pdf' class='btn btn-xl btn-primary mt-4' target='_blank'>View our latest stay connected document</a>
+<a href='https://dunfermlinewest.org/assets/files/dwbc-stay-connected.v5.pdf' class='btn btn-xl btn-primary mt-4' target='_blank'>View our latest stay connected document</a>
 
 <a href='.'>Back to top</a>
 <hr />
