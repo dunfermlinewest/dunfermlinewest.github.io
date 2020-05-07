@@ -19,6 +19,7 @@ p { font-size: 18px;  }
 .dropdown-menu a:hover { text-decoration: none; }
 
 section h2 { font-size: 2em; margin-bottom: 15px; }
+section h3 { font-size: 18px; }
 .bg-info, .bg-danger { padding: 15px; }
 
 .no-padding {
@@ -52,3 +53,22 @@ section.portfolio { padding-top: 0px; }
 .center { text-align: center; display: block; }
 
 .call2action { height: 80px; line-height: 78px; padding: 0 50px; margin-bottom: 20px; }
+
+:target { padding-top: 90px; display: block; }
+
+a.onlineicon { width: 150px; height: 90px; background-size: contain; background-repeat: no-repeat; text-indent: -9999px; 
+    margin-right: 20px;  display: inline-block;
+}
+
+a.onlineicon.live { background-image: url(../img/icons/live.png); width: 110px; }
+a.onlineicon.prayer { background-image: url(../img/icons/prayer.png);  width: 130px; }
+a.onlineicon.sharing { background-image: url(../img/icons/sharing.png);  width: 80px; }
+a.onlineicon.giving { background-image: url(../img/icons/giving.png);  width: 60px; }
+a.onlineicon.worship { background-image: url(../img/icons/worship.png);  width: 80px; }
+
+a.onlineicon.live:hover { background-image: url(../img/icons/live-hover.png); }
+a.onlineicon.prayer:hover { background-image: url(../img/icons/prayer-hover.png); }
+a.onlineicon.sharing:hover { background-image: url(../img/icons/sharing-hover.png); }
+a.onlineicon.giving:hover { background-image: url(../img/icons/giving-hover.png); }
+a.onlineicon.worship:hover { background-image: url(../img/icons/worship-hover.png); }
+
