@@ -20,7 +20,7 @@ Use the following links to explore our online gatherings:
 
 
 <a id="weeklyservice"></a>
-## Sunday 10th May
+## Sunday 17th May
 
 Welcome to our online service. 
 
@@ -30,7 +30,7 @@ Join in the worship live starting at 11:00am (by clicking on either of the links
 
 <span class='center'>
                         <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-success call2action mt-4" target='_blank'>View live on Facebook</a>
-                        <a href='https://youtu.be/6NnQfYPRfho' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
+                        <a href='https://youtu.be/KhsZ41_sobM' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
 </span>
 
 
@@ -45,7 +45,7 @@ After the service we like to join together for a chat with a cup of tea. To join
 <hr />
 
 <a id="weeklyprayer"></a>
-## Wednesday 6th May - Pray together
+## Wednesday 13th May - Pray together
 
 Welcome to our online prayer gathering. The prayer time will begin at 11:00am with a short reflection by Finbar Rickman. He will then lead us in prayer using the following format:
 
@@ -58,7 +58,7 @@ Welcome to our online prayer gathering. The prayer time will begin at 11:00am wi
 
 <span class='center'>
                         <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-success call2action mt-4" target='_blank'>View live on Facebook</a>
-                        <a href='https://youtu.be/4nY_hNb0fZQ' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
+                        <a href='https://youtu.be/RIiB3om8EG8' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
 </span>
 
 <a href='.'>Back to top</a>
@@ -87,7 +87,7 @@ If there is a tick then you have already liked our Facebook page - thank you.
 ## Making an offering
 
 We have several ways to make an offering:
-* Why not make a BACS transfer or setup a standing order to: ACT: 00286118 Sort: 83-33-00
+* Why not make a BACS transfer or setup a standing order to: ACT: 00286118 Sort: 83-33-00 (Include your name or giving letter number in the reference.)
 * You can post a cheque to Dunfermline West Baptist, Chalmers Street, Dunfermline, KY12 8DG
 * Or pay online via Tith.ly below:
 
