@@ -20,7 +20,7 @@ Use the following links to explore our online gatherings:
 
 
 <a id="weeklyservice"></a>
-## Sunday 17th May
+## Sunday 11:00am
 
 Welcome to our online service. 
 
@@ -30,7 +30,7 @@ Join in the worship live starting at 11:00am (by clicking on either of the links
 
 <span class='center'>
                         <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-success call2action mt-4" target='_blank'>View live on Facebook</a>
-                        <a href='https://youtu.be/KhsZ41_sobM' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
+                        <a href='https://www.youtube.com/channel/UC7BuBS_TUKDMvu5Wcpg9PAg/live' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
 </span>
 
 
@@ -45,9 +45,9 @@ After the service we like to join together for a chat with a cup of tea. To join
 <hr />
 
 <a id="weeklyprayer"></a>
-## Wednesday 13th May - Pray together
+## Wednesday 11:00am - Reflections in the Psalms and prayer
 
-Welcome to our online prayer gathering. The prayer time will begin at 11:00am with a short reflection by Finbar Rickman. He will then lead us in prayer using the following format:
+Welcome to our online prayer gathering. The prayer time will begin at 11:00am with a short reflection by Anthony. He will then lead us in prayer using the following format:
 
 1. Let us pray together for global leaders, local leaders and essential services
 2. Let us pray together for those who are suffering with illness across the globe.
@@ -58,7 +58,7 @@ Welcome to our online prayer gathering. The prayer time will begin at 11:00am wi
 
 <span class='center'>
                         <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-success call2action mt-4" target='_blank'>View live on Facebook</a>
-                        <a href='https://youtu.be/RIiB3om8EG8' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
+                        <a href='https://www.youtube.com/channel/UC7BuBS_TUKDMvu5Wcpg9PAg/live' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
 </span>
 
 <a href='.'>Back to top</a>
