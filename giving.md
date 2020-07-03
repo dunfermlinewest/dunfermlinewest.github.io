@@ -14,6 +14,8 @@ As a charity we rely on the generosity of our community to offer various service
 * You can post a cheque to Dunfermline West Baptist, Chalmers Street, Dunfermline, KY12 8DG
 * Or pay online via Tith.ly below:
 
+Please Note there are further costs involved utilising Tith.ly where possible please use BACS transfer or cheque. If you are eligible for gift aid please consider select the gift aid box on the form tithly form.
+
 <button class="tithely-give-btn" style="background-color: #00DB72;font-family: inherit;font-weight: bold;font-size: 19px; padding: 15px 70px; border-radius: 4px; cursor: pointer; background-image: none; color: white; text-shadow: none; display: inline-block; float: none; border: none;" data-church-id="1311056">Click here to make an offering to our church.</button>
 <script src="https://tithe.ly/widget/v3/give.js?3"></script>
 <script>
