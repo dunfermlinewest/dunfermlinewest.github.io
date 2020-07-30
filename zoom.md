@@ -3,7 +3,7 @@ title: Live Gatherings
 layout: services
 image: assets/img/live-banner.jpg
 bgcolor: "#fff"
-permalink: "/live/"
+permalink: "/zoom/"
 ---
 
 <div class="col-lg-12 text-normal">
