@@ -10,4 +10,7 @@ permalink: "/live/"
 ## Zoom 
 Click here to join the zoom communion call.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t-Mie5E0W-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </div>
