@@ -9,11 +9,12 @@ permalink: "/zoom/"
 ## Live Communion 
 This week Rosyth Baptist and Dunfermline West are going to gather together live on zoom to take communion together. Gilmour Lilly the pastor of Rosyth Baptist Church will be leading. You can join on the call with the following details:
 
-**Join Zoom Meeting
-https://us02web.zoom.us/j/318538610?pwd=ZzNoaHowZWpTalc3T3Z1MUJKVXZoQT09
+**Join Zoom Meeting**
+<a href='https://us02web.zoom.us/j/318538610?pwd=ZzNoaHowZWpTalc3T3Z1MUJKVXZoQT09'>https://us02web.zoom.us/j/318538610?pwd=ZzNoaHowZWpTalc3T3Z1MUJKVXZoQT09</a>
 
 Join meeting by standard phone line
 0131 460 1196
+
 Meeting ID: 318 538 610
 Password: 085239
 
