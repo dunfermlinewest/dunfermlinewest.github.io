@@ -24,10 +24,13 @@ Use the following links to explore our online gatherings:
 
 Welcome to our online service. 
 
-Join in the worship live starting at 11:00am (by clicking on the Youtube link below):
+The service will begin with a live video being led by Anthony. He will then guide you through the rest of the service.
+
+Join in the worship live starting at 11:00am (by clicking on either of the links below):
 
 <span class='center'>
-                        <a href='https://youtu.be/GPbKSFNrtSM' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View on Youtube</a>
+                        <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-success call2action mt-4" target='_blank'>View live on Facebook</a>
+                        <a href='https://www.youtube.com/channel/UC7BuBS_TUKDMvu5Wcpg9PAg/live' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
 </span>
 
 
@@ -36,7 +39,7 @@ Join in the worship live starting at 11:00am (by clicking on the Youtube link be
 
 After the service we like to join together for a chat with a cup of tea. To join in simply follow the video meeting or telephone meeting details in our stay connected document.
 
-<a href='https://dunfermlinewest.org/assets/files/dwbc-stay-connected.v6.pdf' class='btn btn-xl btn-primary mt-4' target='_blank'>View our latest stay connected document</a>
+<a href='https://dunfermlinewest.org/assets/files/dwbc-stay-connected.v5.pdf' class='btn btn-xl btn-primary mt-4' target='_blank'>View our latest stay connected document</a>
 
 <a href='.'>Back to top</a>
 <hr />
