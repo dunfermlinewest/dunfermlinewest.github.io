@@ -57,7 +57,7 @@ Welcome to our online prayer gathering. The prayer time will begin at 11:00am wi
 
 
 <span class='center'>
-                        <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-success call2action mt-4" target='_blank'>View live on Facebook</a>
+                        <a href='https://www.facebook.com/dunfermlinewest/posts/930198570813243' class="btn btn-xl btn-success call2action mt-4" target='_blank'>View live on Facebook</a>
                         <a href='https://www.youtube.com/channel/UC7BuBS_TUKDMvu5Wcpg9PAg/live' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
 </span>
 
