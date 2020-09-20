@@ -29,8 +29,7 @@ The service will begin with a live video being led by Anthony. He will then guid
 Join in the worship live starting at 11:00am (by clicking on either of the links below):
 
 <span class='center'>
-                        <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-success call2action mt-4" target='_blank'>View live on Facebook</a>
-                        <a href='https://www.youtube.com/channel/UC7BuBS_TUKDMvu5Wcpg9PAg/live' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
+                        <a href='https://youtu.be/Hs2ZzP-WoBk' class="btn btn-xl btn-success call2action mt-4" target='_blank'>View live Service (YouTube Only This Week)</a>
 </span>
 
 
