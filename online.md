@@ -24,7 +24,7 @@ Use the following links to explore our online gatherings:
 
 Welcome to our online service. 
 
-The service will begin with a live video being led by Fin and Beth Rickman. He will then guide you through the rest of the service.
+The service will begin with a live video being led by Anthony. He will then guide you through the rest of the service.
 
 Join in the worship live starting at 11:00am (by clicking on either of the links below):
 
