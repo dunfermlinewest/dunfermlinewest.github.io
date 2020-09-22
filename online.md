@@ -29,7 +29,7 @@ The service will begin with a live video being led by Anthony. He will then guid
 Join in the worship live starting at 11:00am (by clicking on either of the links below):
 
 <span class='center'>
-                        <a href='https://youtu.be/zr5ocliaBr8' class="btn btn-xl btn-success call2action mt-4" target='_blank'>View live Service (YouTube Only This Week)</a>
+                        <a href='https://youtu.be/Hs2ZzP-WoBk' class="btn btn-xl btn-success call2action mt-4" target='_blank'>View live Service (YouTube Only This Week)</a>
 </span>
 
 
