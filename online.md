@@ -12,7 +12,7 @@ Welcome to our home page for Dunfermline West Baptist Online. We have tried our 
 Use the following links to explore our online gatherings:
 <span class='center'>
 <a href='#weeklyservice' title='Weekly Sunday Service' class='onlineicon live'>Weekly Sunday Service</a>
-<a href='#weeklyprayer' title='Weekly Prayer' class='onlineicon prayer'>Weekly Prayer</a>
+<a href='#weeklyprayer' title='Weekly Prayer' class='onlineicon prayer'>Monthly Prayer</a>
 <a href='#sharing' title='Sharing the good news online' class='onlineicon sharing'>Sharing the good news online</a>
 <a href='#offering' title='Making an offering'  class='onlineicon giving'>Making an offering</a>
 <a href='#playlist' title='Worship Playlist'  class='onlineicon worship'>Worship Playlist</a>
@@ -22,9 +22,7 @@ Use the following links to explore our online gatherings:
 <a id="weeklyservice"></a>
 ## Sunday 11:00am
 
-Welcome to our online service. 
-
-The service will begin with a live video being led by Anthony. He will then guide you through the rest of the service.
+Welcome to our online service. While we are able to gather in our building we will also be streaming our service live. For more information on gathering with us please email: enquiries@dunfermlinewest.org
 
 Join in the worship live starting at 11:00am (by clicking on either of the links below):
 
@@ -37,9 +35,9 @@ Join in the worship live starting at 11:00am (by clicking on either of the links
 <b>Not sure which link to click?</b> Don't worry they will both take you to the live stream. Facebook is a bit easier to join in the chat and Youtube is a bit more robust.
 
 
-After the service we like to join together for a chat with a cup of tea. To join in simply follow the video meeting or telephone meeting details in our stay connected document.
+On the first and third Sunday at 2pm we like to join together for a chat with a cup of tea. To join in simply follow the video meeting or telephone meeting details in our stay connected document.
 
-<a href='https://dunfermlinewest.org/assets/files/dwbc-stay-connected.v5.pdf' class='btn btn-xl btn-primary mt-4' target='_blank'>View our latest stay connected document</a>
+<a href='https://dunfermlinewest.org/assets/files/dwbc-stay-connected.v6.pdf' class='btn btn-xl btn-primary mt-4' target='_blank'>View our latest stay connected document</a>
 
 <a href='.'>Back to top</a>
 <hr />

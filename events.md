@@ -7,10 +7,13 @@ permalink: "/events/"
 ---
 
 <div class="col-lg-12 text-normal">
-You are warmly invited to our upcoming autumn events at West Baptist Church. See the calendar below for more info.
+You are warmly invited to our upcoming events at West Baptist Church.
 
-<p class='text-center'><img class='center img-responsive' src='/assets/img/autumn-events.jpg' alt='Harvest celebration' /></p>
+<iframe src="https://calendar.google.com/calendar/embed?src=dunfermlinewest.co.uk_7gp9qiqqejtv9vd3319uepa4ec%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 If you have any questions please email us at <a href='mailto:enquiries@dunfermlinewest.org?subject=kidzclub'>enquiries@dunfermlinewest.org</a> or drop in at Dunfermline West Baptist Church.
+
+Here are our typical events.
+<p class='text-center'><img class='center img-responsive' src='/assets/img/autumn-events.jpg' alt='Harvest celebration' /></p>
 
 </div>
