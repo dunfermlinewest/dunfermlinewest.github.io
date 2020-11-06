@@ -1,4 +1,5 @@
 ---
+seotitle: Dunfermline West Baptist Church Autumn Events
 title: Dunfermline West Baptist Church Autumn Events
 layout: services
 permalink: "/autumn-events/"

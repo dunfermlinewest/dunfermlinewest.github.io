@@ -1,7 +1,7 @@
 ---
 title: Dunfermline West Baptist Church Autumn Events
-layout: services
-image: assets/img/events-banner-small.jpg
+layout: default
+image: assets/img/events-banner.jpg
 bgcolor: "#333333"
 permalink: "/events/"
 ---

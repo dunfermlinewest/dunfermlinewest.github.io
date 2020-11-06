@@ -1,6 +1,10 @@
-/* header */
+body {
+    font-family: 'Nunito', sans-serif;
+}
 
-header { background-color: #f77f71; } /* pink */
+/* header */
+header { background-color: #f77f71; padding-top: 115px } /* pink */
+header.hicon { padding-top: 25px; }
 header .intro-text .skills { font-size: 3.75em; text-transform: uppercase; }
 header img { margin: 0;  }
 
@@ -20,8 +24,17 @@ header img { margin: 0;  }
 
     nav .dropdown-menu ul { width: 80%; }
     
+    header { padding-top: 75px; }
+    
+    section { padding: 25px 0; }
+    
+    p { font-size: 1em;  }
+    .text-normal p { font-size: 1em;  }
+    section ul li { font-size: 1em; padding-bottom: 10px;  }
     
 }
+
+ section { padding: 25px 0; }
 
 .dropdown-menu  { background-color: #f77f71; box-shadow: none; border: none; }
 .dropdown-menu ul { list-style-type: none; margin: 0; padding: 10px; width: 200px; }
@@ -63,16 +76,16 @@ header img { margin: 0;  }
 
 
 
-hr.star-light-black { border-colour: #718df7; }
+hr.star-light-black { border-colour: #f77f71; }
 
 img.center { margin: 0 auto !important;  } 
 
 /* content */
-p { font-size: 18px;  }
-.text-normal p { font-size: 15px;  }
-p.verse { color: #707070 }
+p { font-size: 1.2em;  }
+.text-normal p { font-size: 1em;  }
+p.verse { color: #707070; font-weight: 200; }
 section ul { margin-top: 10px; }
-section ul li { font-size: 18px; padding-bottom: 10px;  }
+section ul li { font-size: 1.2em; padding-bottom: 10px;  }
 
 h1, h2, h3, h4, h5, h6 {
     color: #f77f71;
@@ -165,4 +178,3 @@ a.onlineicon.prayer:hover { background-image: url(../img/icons/prayer-hover.png)
 a.onlineicon.sharing:hover { background-image: url(../img/icons/sharing-hover.png); }
 a.onlineicon.giving:hover { background-image: url(../img/icons/giving-hover.png); }
 a.onlineicon.worship:hover { background-image: url(../img/icons/worship-hover.png); }
-

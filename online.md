@@ -1,6 +1,6 @@
 ---
 title: Live Gatherings
-layout: services
+layout: default
 image: assets/img/live-banner.jpg
 bgcolor: "#fff"
 permalink: "/online/"
