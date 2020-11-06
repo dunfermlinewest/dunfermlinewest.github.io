@@ -71,8 +71,8 @@ img.center { margin: 0 auto !important;  }
 p { font-size: 18px;  }
 .text-normal p { font-size: 15px;  }
 p.verse { color: #707070 }
-ul { margin-top: 10px; }
-ul li { font-size: 18px; padding-bottom: 10px;  }
+section ul { margin-top: 10px; }
+section ul li { font-size: 18px; padding-bottom: 10px;  }
 
 h1, h2, h3, h4, h5, h6 {
     color: #f77f71;
