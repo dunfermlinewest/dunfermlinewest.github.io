@@ -1,6 +1,6 @@
 ---
 title: Live Gatherings
-layout: services
+layout: default
 image: assets/img/live-banner.jpg
 bgcolor: "#fff"
 permalink: "/online/"
@@ -27,8 +27,8 @@ Welcome to our online service. While we are able to gather in our building we wi
 Join in the worship live starting at 11:00am (by clicking on either of the links below):
 
 <span class='center'>
-                        <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-success call2action mt-4" target='_blank'>View live on Facebook</a>
-                        <a href='https://www.youtube.com/channel/UC7BuBS_TUKDMvu5Wcpg9PAg/live' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
+                        <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-primary call2action mt-4" target='_blank'>View live on Facebook</a>
+                        <a href='https://www.youtube.com/channel/UC7BuBS_TUKDMvu5Wcpg9PAg/live' class="btn btn-xl btn-primary mt-4 call2action" target='_blank'>View live on Youtube</a>
 </span>
 
 
@@ -43,20 +43,13 @@ On the first and third Sunday at 2pm we like to join together for a chat with a 
 <hr />
 
 <a id="weeklyprayer"></a>
-## Wednesday 11:00am - Reflections in the Psalms and prayer
+## Wednesday 11:00am - Monthly Reflections in the Psalms and prayer
 
-Welcome to our online prayer gathering. The prayer time will begin at 11:00am with a short reflection by Anthony. He will then lead us in prayer using the following format:
-
-1. Let us pray together for global leaders, local leaders and essential services
-2. Let us pray together for those who are suffering with illness across the globe.
-3. Let us pray together for our communities and particularly those who are afraid and isolated
-4. Let us commit this pandemic into God's hands seeking his will on how we can be a light in the darkness.
-<b>Any other time</b> Let us never stop praying!
-
+Welcome to our online prayer gathering. The prayer time will begin at 11:00am with a short reflection from the Psalms. 
 
 <span class='center'>
-                        <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-success call2action mt-4" target='_blank'>View live on Facebook</a>
-                        <a href='https://www.youtube.com/channel/UC7BuBS_TUKDMvu5Wcpg9PAg/live' class="btn btn-xl btn-success mt-4 call2action" target='_blank'>View live on Youtube</a>
+                        <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-primary call2action mt-4" target='_blank'>View live on Facebook</a>
+                        <a href='https://www.youtube.com/channel/UC7BuBS_TUKDMvu5Wcpg9PAg/live' class="btn btn-xl btn-primary mt-4 call2action" target='_blank'>View live on Youtube</a>
 </span>
 
 <a href='.'>Back to top</a>
