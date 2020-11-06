@@ -3,7 +3,7 @@ title: Dunfermline West Baptist Church Spring Events
 layout: services
 permalink: "/spring-events/"
 ---
-
+<div class='row'>
 <div class="col-lg-12 text-normal">
 <p>You are warmly invited to our upcoming Spring events at West Baptist Church. See the calendar below for more info.</p>
 
@@ -12,4 +12,5 @@ permalink: "/spring-events/"
 
 If you have any questions please email us at <a href='mailto:enquiries@dunfermlinewest.org?subject=kidzclub'>enquiries@dunfermlinewest.org</a> or drop in at Dunfermline West Baptist Church.
 
+</div>
 </div>

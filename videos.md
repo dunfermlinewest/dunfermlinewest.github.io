@@ -5,7 +5,7 @@ layout: services
 bgcolor: "#bf1dc1"
 permalink: "/videos/"
 ---
-
+<div class='row'>
 <div class="col-lg-12 text-normal">
 <p>Our YouTube Channel is a great place to get the essence of our sermon series. It contains short videos tailored for online viewing.</p>
 <p>To view all our sermon recordings go to our Youtube playlist at:</p>
@@ -22,4 +22,5 @@ Listen to the latest sermon below:
 If you have any questions please email us at <a href='mailto:enquiries@dunfermlinewest.org?subject=kidzclub'>enquiries@dunfermlinewest.org</a> or drop in at Dunfermline West Baptist Church.
 </p>
 
+</div>
 </div>

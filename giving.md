@@ -5,7 +5,7 @@ layout: services
 bgcolor: "#bf1dc1"
 permalink: "/giving/"
 ---
-
+<div class='row'>
 <div class="col-lg-12 text-normal">
 
 As a charity we rely on the generosity of our community to offer various services to the community in the name of Christ. For many Christians the act of giving is an important part of their worship. If you would like to make a donation to the church today you can do this in several ways:
@@ -27,4 +27,5 @@ var tw = create_tithely_widget();
 <p>
 If you have any questions please email us at <a href='mailto:enquiries@dunfermlinewest.org?subject=kidzclub'>enquiries@dunfermlinewest.org</a> or drop in at Dunfermline West Baptist Church.
 </p>
+</div>
 </div>

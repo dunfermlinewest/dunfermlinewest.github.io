@@ -5,7 +5,7 @@ image: assets/img/smallgroups.jpg
 bgcolor: "#1037b5"
 permalink: "/lifeexplored/"
 ---
-
+<div class='row'>
 <div class="col-lg-12 text-normal">
 We are excited to have completed our series <b>Life Explored</b>.
 
@@ -26,5 +26,6 @@ Life Explored will help people uncover what they’re really living for, and see
 ### Watch the trailer
 	{% include youtubeplayer.html id=xghL-8RrSac %}
 
+</div>
 </div>
 </div>

@@ -4,7 +4,7 @@ layout: services
 bgcolor: "#d76946"
 permalink: "/mission-hospitality/"
 ---
-
+<div class='row'>
 <div class="col-sm-4">
 <img src='{{ site.url }}/assets/img/hospitality-banner-small.jpg' class='img-responsive' />	
 </div>
@@ -14,4 +14,5 @@ permalink: "/mission-hospitality/"
 <p>
 If you have any questions please email us at <a href='mailto:enquiries@dunfermlinewest.org?subject=kidzclub'>enquiries@dunfermlinewest.org</a> or drop in at Dunfermline West Baptist Church.
 </p>
+</div>
 </div>

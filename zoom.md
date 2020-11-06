@@ -4,7 +4,7 @@ layout: services
 bgcolor: "#fff"
 permalink: "/zoom/"
 ---
-
+<div class='row'>
 <div class="col-lg-12 text-normal">
 ## Live Communion 
 This week we will be gathering together in communion embracing the hospitality of Jesus. You can join on the call at 1pm with the following details:
@@ -29,4 +29,5 @@ Join meeting by standard phone line: 0131 460 1196
 <iframe src="https://www.youtube.com/embed/QEJPE13GSL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" class="video" allowfullscreen></iframe>
 </div>
 
+</div>
 </div>

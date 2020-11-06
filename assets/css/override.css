@@ -37,11 +37,11 @@ header img { margin: 0;  }
  section { padding: 25px 0; }
 
 .dropdown-menu  { background-color: #f77f71; box-shadow: none; border: none; }
-.dropdown-menu ul { list-style-type: none; margin: 0; padding: 10px; width: 200px; }
+.dropdown-menu ul { list-style-type: none; margin: 0; padding: 10px; width: 250px; }
 .dropdown-menu ul li { padding: 5px; }
 .dropdown-menu ul li:first-child { padding-top: 10px; }
 .dropdown-menu ul li:last-child { padding-bottom: 10px; }
-.dropdown-menu ul li.break { margin-top: 10px; border-top: 1px dashed #fff; }
+.dropdown-menu ul li.bk { margin-top: 10px; padding-top: 20px; border-top: 1px solid #fff; }
 .dropdown-menu a:hover { text-decoration: none; }
 
 .navbar-custom .navbar-nav li a:hover {

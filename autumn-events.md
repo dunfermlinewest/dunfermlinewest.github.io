@@ -4,7 +4,7 @@ title: Dunfermline West Baptist Church Autumn Events
 layout: services
 permalink: "/autumn-events/"
 ---
-
+<div class='row'>
 <div class="col-lg-12 text-normal">
 <p>You are warmly invited to our upcoming Autumn events at West Baptist Church. See the calendar below for more info.</p>
 
@@ -12,4 +12,5 @@ permalink: "/autumn-events/"
 
 If you have any questions please email us at <a href='mailto:enquiries@dunfermlinewest.org?subject=kidzclub'>enquiries@dunfermlinewest.org</a> or drop in at Dunfermline West Baptist Church.
 
+</div>
 </div>

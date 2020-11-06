@@ -4,6 +4,7 @@ layout: services
 bgcolor: "#1037b5"
 permalink: "/choir/"
 ---
+<div class='row'>
 <div class='col-md-6'>
 <p>The **@Abaana New Life Choir** is an amazing group of children from Uganda, who light up the stage through song and dance. Come and hear their stories and join us as we worship with them.</p>
 
@@ -24,4 +25,5 @@ permalink: "/choir/"
 
 ### History Makers
 <p class='text-center'><img class='center img-responsive' src='/assets/img/abaana-poster-HD.jpg' alt='Abaana New Life Choir' /></p>
+</div>
 </div>
