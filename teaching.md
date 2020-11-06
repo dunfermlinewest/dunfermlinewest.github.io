@@ -2,7 +2,7 @@
 title: Dunfermline West Weekly Worship Services
 layout: services
 bgcolor: "#fff"
-permalink: "/worship-services/"
+permalink: "/teaching/"
 ---
 
 <div class="col-sm-4">

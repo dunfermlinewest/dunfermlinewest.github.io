@@ -1,7 +1,8 @@
 ---
-title: Dunfermline West Baptist Church Kidz Club
+seotitle: Dunfermline West Baptist Church Younger Generations | Kidz Club
+title: Younger Generation
 layout: services
-permalink: "/kidzclub/"
+permalink: "/younger-generation/"
 ---
 
 <div class="col-lg-12 text-normal">

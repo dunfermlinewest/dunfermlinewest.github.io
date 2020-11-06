@@ -1,8 +1,9 @@
 ---
-title: Dunfermline West Small Groups
+seotitle: Dunfermline West Life Groups | Small Groups
+title: Life Groups
 layout: services
 bgcolor: "#d76946"
-permalink: "/smallgroups/"
+permalink: "/lifegroups/"
 ---
 
 <div class="col-sm-4">
