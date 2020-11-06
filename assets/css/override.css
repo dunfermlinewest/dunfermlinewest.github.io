@@ -122,6 +122,14 @@ section h3 { font-size: 18px; }
 
 section.portfolio { padding-top: 0px; }
 
+#portfolio .portfolio-item .portfolio-link .caption {
+    background-color: grey;
+}
+
+#portfolio .portfolio-item .portfolio-link .caption:hover {
+    opacity: 0.5;
+}
+
 .video-container {
     position: relative;
     width: 100%;
