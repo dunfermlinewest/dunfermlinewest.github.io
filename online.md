@@ -35,7 +35,7 @@ Join in the worship live starting at 11:00am (by clicking on either of the links
 <b>Not sure which link to click?</b> Don't worry they will both take you to the live stream. Facebook is a bit easier to join in the chat and Youtube is a bit more robust.
 
 
-On the first and third Sunday at 2pm we like to join together for a chat with a cup of tea. To join in simply follow the video meeting or telephone meeting details in our stay connected document.
+Every Wednesday at 7.30pm we gather together on Zoom for a "Natter and Cuppa". To join in simply follow the video meeting or telephone meeting details in our stay connected document.
 
 <a href='https://dunfermlinewest.org/assets/files/dwbc-stay-connected.v6.pdf' class='btn btn-xl btn-primary mt-4' target='_blank'>View our latest stay connected document</a>
 
