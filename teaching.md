@@ -14,7 +14,7 @@ What was written in former days was written for our teaching, that through endur
 <strong>Romans 15:4</strong>
 </p>
     
-We every <b>Sunday at 11:00am</b> to worship God. Anybody is welcome to the service which may include praise, contemplation, family news, prayer and learning.
+We gather together every <b>Sunday at 11:00am</b> to worship God and study his Word. Anybody is welcome to the service which may include praise, contemplation, family news, prayer and learning.
 
 The church engages a diverse range of speakers. 
 
