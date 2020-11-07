@@ -8,11 +8,9 @@ permalink: "/community/"
 <div class="col-sm-12">
 We are dedicated to reaching out into the community as a voice of hope, love and justice. With your help, we can be servants to people from all walks of life.
     
-<p class='verse text-center'>
-The Lord has told you what is good,<br />
-    and this is what he requires of you:<br />
-to do what is right, to love mercy,<br />
-    and to walk humbly with your God. <br />
+<p class='verse'>
+The Lord has told you what is good, and this is what he requires of you:<br />
+to do what is right, to love mercy, and to walk humbly with your God. <br />
     <strong>Micah 6:8</strong>
 </p>
 

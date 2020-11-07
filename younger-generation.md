@@ -12,7 +12,7 @@ permalink: "/younger-generation/"
 <p>Our aim is that young people will feel valued and loved as individuals. They are encouraged to explore our building, in all the nooks and crannies, so that they feel comfortable. We aspire to enable an environment where every child will build new lifelong relationships.</p>
 
 <p class='verse'>
-Jesus said, “Let the children come to me. Don’t stop them! For the Kingdom of Heaven belongs to those who are like these children.” <strong>Matthew 19:14</strong>
+Jesus said, “Let the children come to me. Don’t stop them! For the Kingdom of Heaven belongs to those who are like these children.” <br /><strong>Matthew 19:14</strong>
 </p>
 
 ### Children's Church

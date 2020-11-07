@@ -9,9 +9,9 @@ permalink: "/teaching/"
 <div class="col-sm-12">
 We are all part of one big story. We strive to make sense of our story and find purpose in life through the grand story of hope and love that is revealed in the bible. The bible is the word of God, not of men, that is at work in all those who believe.      
     
-<p class='verse text-center'>
+<p class='verse'>
 What was written in former days was written for our teaching, that through endurance and through the encouragement of the Scriptures we might have hope.
-<strong>Romans 15:4</strong>
+<br /><strong>Romans 15:4</strong>
 </p>
     
 We gather together every <b>Sunday at 11:00am</b> to worship God and study his Word. Anybody is welcome to the service which may include praise, contemplation, family news, prayer and learning.
@@ -22,7 +22,7 @@ Our pastor Anthony is currently speaking from the books of Samuel: <b>"Choose yo
 
 <p class='verse'>
 The Israelites said to Gideon, “Rule over us, you and your son and your grandson also; for you have delivered us out of the hand of Midian.”  Gideon said to them, “I will not rule over you, and my son will not rule over you; the Lord will rule over you.”
-<strong>Judges 8:22-23</strong>
+<br /><strong>Judges 8:22-23</strong>
 </p>
 
 Our deacon Alan is currently speaking on the books written by Luke the evangelist.

@@ -12,7 +12,7 @@ We are passionate about worship and recognise that it stirs the heart of all gen
     Above all, clothe yourselves with love, which binds us all together in perfect harmony. And let the peace that comes from Christ rule in your hearts. For as members of one body you are called to live in peace. And always be thankful.<br />
     <br />
     Let the message about Christ, in all its richness, fill your lives. Teach and counsel each other with all the wisdom he gives. Sing psalms and hymns and spiritual songs to God with thankful hearts. And whatever you do or say, do it as a representative of the Lord Jesus, giving thanks through him to God the Father.
-    <strong>Colossians 3:14-17</strong>
+    <br /><strong>Colossians 3:14-17</strong>
 </p>
     
 Dunfermline West Baptist church meets the last Thursday of the month at 7pm for an evening of praise. Be lead in contemporary worshop by praise bands from across central scotland.
