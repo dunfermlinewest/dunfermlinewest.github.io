@@ -48,7 +48,7 @@ function printCalendar() {
 
                 } else {
                     currentM = moment(entry.start.dateTime).format("MMM");
-                    var startsAt = moment(entry.start.dateTime).format("dddd Do MMM") + ' ' + moment(entry.start.dateTime).format("LT");
+                    var startsAt = moment(entry.start.dateTime).format("dddd Do") + ' ' + moment(entry.start.dateTime).format("LT");
                     row = `<tr><td>${startsAt}</td><td>${entry.summary}${allDay}</td></tr>`;
                     allDay = "";
                 }
