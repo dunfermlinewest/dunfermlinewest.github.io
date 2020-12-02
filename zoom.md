@@ -17,6 +17,10 @@ Passcode: 789827
 
 Join meeting by standard phone line: 0131 460 1196
 
+**Don't have Zoom?
+Click on the button below to download zoom
+<a class='btn btn-xl btn-primary mt-4' href='https://zoom.us/download'>Download Zoom</a>
+
 
 <!--
 **Alternatively, you can watch the zoom call below:**
