@@ -1,5 +1,5 @@
 ---
-title: Live Gatherings
+title: Join our zoom meetings
 layout: services
 bgcolor: "#fff"
 permalink: "/zoom/"
