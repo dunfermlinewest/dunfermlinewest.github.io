@@ -8,9 +8,8 @@ permalink: "/events/"
 <div class="col-lg-12 text-normal">
 You are warmly invited to our upcoming events at West Baptist Church. You can connect with us in person or online:
 <p class='center'>
-   <a href='/online/' class="btn btn-xl btn-primary mt-4 call2action">Ways to gather with us</a>
+   <a href='/notices/' class="btn btn-xl btn-primary mt-4 call2action">View our latest notices</a>  <a href='/online/' class="btn btn-xl btn-primary mt-4 call2action">Ways to gather with us</a>
 </p>
-
 
 <div id="church-calendar"></div>
 <!-- For google calendar integration -->

@@ -153,6 +153,10 @@ section.portfolio { padding-top: 0px; }
     height: 100%;
 }
 
+.notices h4 {
+    color: #767676;
+}
+
 
 /* find us*/
 #find {
