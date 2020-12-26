@@ -35,6 +35,9 @@ address_city: Chalmers Street
 address_state: Dunfermline
 address_zip: KY12 8DG
 
+#pages
+include: ['_pages']
+
 #Collections
 
 collections:
