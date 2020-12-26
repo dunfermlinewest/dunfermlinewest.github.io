@@ -21,13 +21,13 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-   - name: "pages" # Used in routes, e.g., /admin/collections/blog
-     label: "Pages" # Used in the UI
-     folder: "" # The path to the folder where the documents are stored
-     create: true # Allow users to create new documents in this collection
-     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-     delete: false
-     fields: # The fields for each document, usually in front matter
+  - name: "pages" # Used in routes, e.g., /admin/collections/blog
+    label: "Pages" # Used in the UI
+    folder: "" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    delete: false
+    fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "SEO", name: "seotitle", widget: "string"}
       - {label: "Layout", name: "layout", widget: "select", options: ["default", "services", "page"]}
@@ -36,4 +36,3 @@ collections:
       - {label: "Image", name: "image", widget: "File", required: false}
       - {label: "Image Link", name: "image-link", widget: "String", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-      
