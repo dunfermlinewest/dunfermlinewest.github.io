@@ -32,7 +32,7 @@ collections:
       - {label: "SEO", name: "seotitle", widget: "string"}
       - {label: "Layout", name: "layout", widget: "select", options: ["default", "services", "page"]}
       - {label: "Background Colour", name: "bgcolor", widget: "color", allowInput: true}
-      - {label: "Permalink", name: "title", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Image", name: "image", widget: "File", required: false}
       - {label: "Image Link", name: "image-link", widget: "String", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
