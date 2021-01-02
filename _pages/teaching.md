@@ -35,6 +35,7 @@ Our previous sermon series were on:
 
 <p>
 <a class='btn btn-primary' href='{{ site.url }}/videos/' alt='View sermons'>Click here to listen to our sermons</a>
+    <a class='btn btn-primary' href='{{ site.url }}/blog/' alt='View Blog'>Click here to view our monthly blog</a>
 </p>
 <p>
 If you have any questions please email us at <a href='mailto:enquiries@dunfermlinewest.org'>enquiries@dunfermlinewest.org</a> or drop in at Dunfermline West Baptist Church.

@@ -93,8 +93,10 @@ p.verse {
 
 }
 
-section ul { margin-top: 10px; }
-section ul li { font-size: 1.2em; padding-bottom: 10px;  }
+blockquote { font-size: 0.9em; color: #707070 }
+
+section ul, ol { margin-top: 10px; }
+section ul li, ol li { font-size: 1.2em; padding-bottom: 10px;  }
 
 h1, h2, h3, h4, h5, h6 {
     color: #f77f71;
