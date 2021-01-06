@@ -7,7 +7,8 @@ permalink: "/blog/"
 <div class="row notices">
 {% for post in site.posts %}
 {% assign mod = forloop.index | modulo: 4 %}
-<div class="col-sm-3 text-normal {{ mod }}">
+<div class="col-sm-3 text-normal post-item {{ mod }}">
+<img src='{% if post.thumb %}{{ site.url }}/{{ post.thumb }}{% else %}{{ site.url }}/{{ post.image }}{% endif %}' alt='{{ post.title }}' />
 <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
 {{ post.excerpt }}
 <a href='{{ post.url }}' class="btn btn-xl btn-primary mt-4">Read more</a>
