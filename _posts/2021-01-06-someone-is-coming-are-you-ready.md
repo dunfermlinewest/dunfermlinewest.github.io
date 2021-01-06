@@ -4,7 +4,9 @@ date: 2020-12-01T13:45:40.130Z
 image: /assets/img/sic-banner.jpg
 thumb: /assets/img/sic-thumb.jpg
 ---
-I don’t know about you, but it seems hard to believe that we are approaching the advent season. It seemed only last month that we were hunkering down in our houses, preparing ourselves for a lockdown. If you could describe the last year in one word what would it be? Perhaps it is the word ‘unexpected.’  
+If you could describe the last year in one word what would it be? Perhaps it is the word ‘unexpected.’  
+
+I don’t know about you, but it seems hard to believe that we are approaching the advent season. It seemed only last month that we were hunkering down in our houses, preparing ourselves for a lockdown. 
 
 I am not sure anybody could have predicted that this year would have gone how it did. It has been a year of mixed emotions. At times, it has been a time: to rethink what our priorities are, reflect on what is really important in our lives, celebrate the heroes among us, and to focus on our families and friends. Other times, it has been a time: of deep distress, uncertainty, anxiety, lament and of fear. The Bible tells us that for everything there is a season (Ecclesiastes 3), that there is a time for every activity under heaven:
 
