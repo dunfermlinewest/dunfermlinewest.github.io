@@ -1,0 +1,27 @@
+<!-- About Section -->
+    <section class="" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-9">
+                    <h2>{{page.title}}</h2>
+                    <hr class="star-light-black">
+                    {{content}}
+                </div>
+                <div class="col-sm-3 side-bar">
+                    <h2>Our latest articles</h2>
+                    {% for post in site.posts limit:5 %}
+                    <div class='post-item text-normal'>
+                    <img src='{% if post.thumb %}{{ site.url }}/{{ post.thumb }}{% else %}{{ site.url }}/{{ post.image }}{% endif %}' alt='{{ post.title }}' />
+                    <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+                    {{ post.excerpt }}
+                    <a href='{{ post.url }}' class="btn btn-xl btn-secondary mt-4">Read more</a>
+                    </div>
+
+                    {% endfor %}
+                    <hr class="star-light-black">
+                    <a class='btn btn-primary' href='{{ site.url }}/blog/' alt='View Blog'>View all our articles</a>
+                </div>
+            </div>
+
+        </div>
+    </section>

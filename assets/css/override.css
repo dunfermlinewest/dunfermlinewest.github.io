@@ -119,6 +119,18 @@ hr.star-primary { border-color: #f77f71 }
     border-color: #f66f60;
 }
 
+.btn-light, .btn-secondary {
+    background-color: #707070;
+    border-color: #707070;
+    color: #FFF;
+}
+
+.btn-light:hover, .btn-secondary:hover {
+    background-color: #f77f71;
+    background-color: #f77f71;
+    border-color: #f77f71;
+    color: #FFF;
+}
 
 
 
@@ -159,10 +171,16 @@ section.portfolio { padding-top: 0px; }
     color: #767676;
 }
 
+
+/*Posts*/
 .post-item img {
   object-fit: cover;
   width:100%;
   height:200px;
+}
+
+.side-bar .post-item {
+    padding-bottom: 20px;
 }
 
 /* find us*/
