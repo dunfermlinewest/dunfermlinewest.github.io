@@ -20,7 +20,9 @@ var countries = '{% for mission in site.missions %}{{ mission.country }},{% endf
 <script src="{{site.url}}/assets/world-map.js"></script>
 
 </div>
-<div class="col-sm-4">
+<div class="col-sm-4 text-normal">
+### We support
+<p>(Click the name to see which areas they have worked in recently)</p>
 <ul>
 {% assign missions = site.missions | sort: 'date' | reverse %}
 {% for mission in missions %}
