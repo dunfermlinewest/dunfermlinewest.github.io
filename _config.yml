@@ -42,6 +42,7 @@ include: ['_pages']
 
 collections:
   notices:
+  missions:
   posts:
     output: true
     
