@@ -1,6 +1,6 @@
 ---
 title:  "Platform 67"
-link: 'https://trypraying.org'
+link: 'https://www.platform67.org/'
 logo: ''
 country: 'CN,GB,FR,ES,PT,IN,NP'
 date: 2021-01-19
