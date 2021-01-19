@@ -3,7 +3,7 @@ title:  "Mary's Meals"
 link: 'https://www.marysmeals.org.uk/'
 logo: ''
 country: 'GB'
-date: 20201215
+date: 2020-12-15
 ---
 It’s mission is to enable people to offer their money, goods, skills, time and prayer and through this to provide effective help to those suffering the effects of extreme poverty in the world’s poorest communities. 
 

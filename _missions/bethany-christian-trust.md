@@ -3,7 +3,7 @@ title:  "Bethany Christian Trust"
 link: 'https://www.bethanychristiantrust.com/ '
 logo: ''
 country: 'GB'
-date: 20210120
+date: 2021-01-19
 ---
 A national charity whose mission is to relieve the suffering and meet the long term needs of homeless and vulnerable people in Scotland.
 

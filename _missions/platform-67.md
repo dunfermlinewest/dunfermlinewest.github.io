@@ -3,7 +3,7 @@ title:  "Platform 67"
 link: 'https://trypraying.org'
 logo: ''
 country: 'CN,GB,FR,ES,PT,IN,NP'
-date: 20201215
+date: 2021-01-19
 ---
 Why the Name?  ‘A platform is simply a stage from which to proclaim your message – loudly and clearly!  Psalm 67 is one of the great missionary Psalms.  It shapes our purpose to: make God’s ways known on earth, his salvation among all the nations’.  
 

@@ -3,7 +3,7 @@ title:  "Baptist Missionary Society (BMS)"
 link: 'https://bmsworldmission.org '
 logo: ''
 country: 'PE'
-date: 20210120
+date: 2021-01-19
 ---
 ‘BMS works among some of the most marginalised and least evangelised people, in some of the most fragile places on earth.  They aim to bring life in all its fullness through 7 key ministries: church, development, education, health, justice, leadership and relief’.
 

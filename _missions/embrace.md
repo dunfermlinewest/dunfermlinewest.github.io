@@ -3,7 +3,7 @@ title:  "Embrace the Middle East"
 link: 'https://trypraying.org'
 logo: ''
 country: 'EG,GB,SY,IL,JO,LB'
-date: 20201215
+date: 2021-01-19
 ---
 This is a Christian Charity with over 160 years’ experience of helping people of all faiths and none to free themselves from a life of poverty and injustice.  They seek to partner with Middle East Christians as they bring healing and hope and see lives and communities transformed by the compassion of Christ.
 

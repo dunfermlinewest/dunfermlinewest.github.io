@@ -3,7 +3,7 @@ title:  "Gideons International"
 link: 'https://www.gideons.org/ '
 logo: ''
 country: 'GB'
-date: 20201215
+date: 2020-12-15
 ---
 Gideons International is an Association of Christian business and professional men and women dedicated to telling people about Jesus through associating together for service sharing personal testimony and providing Bibles and New Testaments.  
 

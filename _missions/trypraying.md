@@ -3,7 +3,7 @@ title:  "TryPraying"
 link: 'https://trypraying.org'
 logo: ''
 country: 'GB'
-date: 20201215
+date: 2020-12-15
 ---
 Their website says ‘The desire to reach out to God is basic to many, many, people.  Trypraying is a resource for people like that: no church connection or interest, but open to find out about God.'  
 

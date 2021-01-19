@@ -3,7 +3,7 @@ title:  "Foodbank"
 link: 'https://dunfermline.foodbank.org.uk/'
 logo: ''
 country: 'GB'
-date: 20201215
+date: 2020-12-15
 ---
 Helping local people in crisis.
 
