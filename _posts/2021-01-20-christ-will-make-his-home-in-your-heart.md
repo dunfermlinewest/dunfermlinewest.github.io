@@ -20,5 +20,5 @@ God chooses our home for us. Where we live, where we have placed our roots, is n
 
 > They worshiped together at the Temple each day, met in homes for the Lord’s Supper, and shared their meals with great joy and generosity all the while praising God and enjoying the goodwill of all the people. And each day the Lord added to their fellowship those who were being saved. (Acts 2:46-47)
 
-1: Walter Brueggemann, First and Second Samuel: Interpretation commentary, 253.\
+1: Walter Brueggemann, First and Second Samuel: Interpretation commentary, 253. 
 2: <https://www.desiringgod.org/articles/god-chose-this-home-for-you>
