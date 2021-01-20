@@ -3,7 +3,7 @@ title: Christ will make his home in your heart
 date: 2020-11-01T13:06:23.434Z
 author: Anthony Luxton
 image: /assets/img/home-in-our-heart.jpg
-thumb: null
+thumb: /assets/img/home-in-our-heart-thumb.jpg
 ---
 We are not qualified to build God’s house, rather, it is God that builds a home for us through Jesus. Amazingly, as we come to Jesus, like living stones, we are built into a spiritual house, to be a people who are set apart (1 Peter 2:4-6).
 
@@ -21,4 +21,4 @@ God chooses our home for us. Where we live, where we have placed our roots, is n
 > They worshiped together at the Temple each day, met in homes for the Lord’s Supper, and shared their meals with great joy and generosity all the while praising God and enjoying the goodwill of all the people. And each day the Lord added to their fellowship those who were being saved. (Acts 2:46-47)
 
 1: Walter Brueggemann, First and Second Samuel: Interpretation commentary, 253.\
-2: https://www.desiringgod.org/articles/god-chose-this-home-for-you
+2: <https://www.desiringgod.org/articles/god-chose-this-home-for-you>
