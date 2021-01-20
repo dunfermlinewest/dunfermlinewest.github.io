@@ -5,9 +5,9 @@ author: Anthony Luxton
 image: /assets/img/home-in-our-heart.jpg
 thumb: /assets/img/home-in-our-heart-thumb.jpg
 ---
-We are not qualified to build God’s house, rather, it is God that builds a home for us through Jesus. Amazingly, as we come to Jesus, like living stones, we are built into a spiritual house, to be a people who are set apart (1 Peter 2:4-6).
+We are not qualified to build God’s house, rather, it is God that builds a home in our hearts through Jesus.
 
-As we continued our “Choose Your King” series, we reflected on 2 Samuel 7 described as ‘one of the most crucial texts in the Old Testament for evangelical faith.’ (1) In the passage King David proposes to build God a temple. God, however, does not want this, instead God tells David that He will build David a house. Most importantly, God would build David a house that will continue, unconditionally, for all time. 
+As we continued our “Choose Your King” series, we reflected on 2 Samuel 7 described as ‘one of the most crucial texts in the Old Testament for evangelical faith.’ (1) In the passage King David proposes to build God a temple. God, however, does not want this, instead God tells David that He will build David a house. Most importantly, God would build David a house that will continue, unconditionally, for all time. Amazingly, as we come to Jesus, like living stones, we are built into a spiritual house, to be a people who are set apart (1 Peter 2:4-6).
 
 > Christ will make his home in your hearts as you trust in him. Your roots will grow down into God’s love and keep you strong. And may you have the power to understand, as all God’s people should, how wide, how long, how high, and how deep his love is. (Ephesians 3:17-19)
 
