@@ -1,6 +1,6 @@
 ---
 title:  "Embrace the Middle East"
-link: 'https://trypraying.org'
+link: 'https://embraceme.org/'
 logo: ''
 country: 'EG,GB,SY,IL,JO,LB'
 date: 2021-01-19
