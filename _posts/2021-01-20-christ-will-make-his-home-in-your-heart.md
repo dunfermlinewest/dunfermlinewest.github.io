@@ -2,6 +2,8 @@
 title: Christ will make his home in your heart
 date: 2020-11-01T13:06:23.434Z
 author: Anthony Luxton
+image: /assets/img/home-in-our-heart.jpg
+thumb: null
 ---
 We are not qualified to build God’s house, rather, it is God that builds a home for us through Jesus. Amazingly, as we come to Jesus, like living stones, we are built into a spiritual house, to be a people who are set apart (1 Peter 2:4-6).
 
