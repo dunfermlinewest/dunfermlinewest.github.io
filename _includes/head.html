@@ -24,6 +24,16 @@
       gtag('config', 'UA-159938781-2');
     </script>
 
+    <!-- FB meta tags -->
+    <meta property="og:url"                content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:title"              content="{{ page.title }}" />
+    <meta property="og:description"        content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+    {% if page.image %}
+    <meta property="og:image"              content="{{ site.url}}{{ page.image }}" />
+    {% else %}
+    <meta property="og:image"              content="{{ site.url}}{{ site.image }}" />
+    {% endif %}
+    
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">

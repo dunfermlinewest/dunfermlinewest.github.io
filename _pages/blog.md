@@ -10,6 +10,7 @@ permalink: "/blog/"
 <div class="col-sm-3 text-normal post-item {{ mod }}">
 <img src='{% if post.thumb %}{{ site.url }}/{{ post.thumb }}{% else %}{{ site.url }}/{{ post.image }}{% endif %}' alt='{{ post.title }}' />
 <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+<span class='date'>{{ post.date  | date_to_long_string }}</span>
 {{ post.excerpt }}
 <a href='{{ post.url }}' class="btn btn-xl btn-primary mt-4">Read more</a>
 </div>
