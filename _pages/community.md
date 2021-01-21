@@ -1,8 +1,9 @@
 ---
-seotitle: Dunfermline West Community | Cinema & Pizza | Coffee Mornings and lots more
 title: Welcome to our commmunity
+seotitle: Dunfermline West Community | Cinema & Pizza | Coffee Mornings and lots more
 layout: services
-permalink: "/community/"
+bgcolor: "#ffffff"
+permalink: /community/
 ---
 <div class="row">
 <div class="col-sm-12">
@@ -18,6 +19,19 @@ to do what is right, to love mercy, and to walk humbly with your God. <br />
 
 </div>
 </div>
+<hr />
+<div class='row'>
+<div class="col-sm-4">
+<img src='{{ site.url }}/assets/img/icons/community-garden.jpg' class='img-responsive' />	
+</div>
+<div class="col-sm-8">
+<h2>Community Garden</h2>
+In December 2020 we were excited to have taken a lease on a derelict plot of land on Chalmers Street. 
+
+Our vision is to restore this land into a community garden as a place for rest for those who are weary and also a place for community gathering such as Christmas Markets and Summer Fayres.
+</div>
+</div>
+<hr />
 <div class='row'>
 <div class="col-sm-4">
 <img src='{{ site.url }}/assets/img/icons/cinema.jpg' class='img-responsive' />	
