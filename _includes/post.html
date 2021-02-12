@@ -10,7 +10,7 @@
                 </div>
                 <div class="col-sm-3 side-bar">
                     <h2>Our latest articles</h2>
-                    {% for post in site.posts limit:5 %}
+                    {% for post in site.posts limit:3 %}
                     <div class='post-item text-normal'>
                     <img src='{% if post.thumb %}{{ site.url }}/{{ post.thumb }}{% else %}{{ site.url }}/{{ post.image }}{% endif %}' alt='{{ post.title }}' />
                     <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
