@@ -43,14 +43,9 @@ Every Wednesday at 7.30pm we gather together on Zoom for a "Natter and Cuppa". T
 <hr />
 
 <a id="weeklyprayer"></a>
-## Wednesday 11:00am - Monthly Reflections in the Psalms and prayer
+## Monthly Reflections in the Psalms and prayer
 
-Welcome to our online prayer gathering. The prayer time will begin at 11:00am with a short reflection from the Psalms. 
-
-<span class='center'>
-                        <a href='https://www.facebook.com/dunfermlinewest/live/' class="btn btn-xl btn-primary call2action mt-4" target='_blank'>View live on Facebook</a>
-                        <a href='https://www.youtube.com/channel/UC7BuBS_TUKDMvu5Wcpg9PAg/live' class="btn btn-xl btn-primary mt-4 call2action" target='_blank'>View live on Youtube</a>
-</span>
+On the first Wednesday of each month our monthly reflections in the Psalms and prayer is released on YouTube and Facebook. Join in at your leisure by visiting our social media pages.
 
 <a href='.'>Back to top</a>
 <hr />
