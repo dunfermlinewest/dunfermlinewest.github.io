@@ -1,8 +1,9 @@
 ---
-seotitle: Dunfermline West Worship and Praise
 title: Whole-life worship
+seotitle: Dunfermline West Worship and Praise
 layout: services
-permalink: "/worship/"
+bgcolor: "#ffffff"
+permalink: /worship/
 ---
 <div class='row'>
 <div class="col-sm-12">
@@ -20,7 +21,7 @@ Simply press play and listen to the songs selected by our worship team. Why not 
 
 <br />
 <h2>Praise Evening</h2>
-Dunfermline West Baptist regularly hosts praise evenings. Be lead in contemporary worship by praise bands from across central scotland.
+Dunfermline West Baptist regularly hosts praise evenings. Be led in contemporary worship by praise bands from across central scotland.
 
 Note: During holidays there may be a change to our regular Praise Evening, please refer to our quarterly programme to ensure you do not miss out.
 
