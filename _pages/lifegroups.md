@@ -1,8 +1,9 @@
 ---
-seotitle: Dunfermline West Life Groups | Small Groups
 title: Life Groups
+seotitle: Dunfermline West Life Groups | Small Groups
 layout: services
-permalink: "/lifegroups/"
+bgcolor: "#ffffff"
+permalink: /lifegroups/
 ---
 <div class='row'>
 <div class="col-sm-12">
@@ -13,7 +14,7 @@ A place to belong. Our small groups equip you with the tools to grow as a discip
     <br /><strong>Acts 2:44-47</strong>
 </p>
 
-Following the school term Dunfermline West provide weekly small groups that discuss questions from the Sunday teaching. The group meet regularly to share life together and discipleship one another.
+Following the school term Dunfermline West provide weekly small groups that discuss questions from the Sunday teaching. The group meet regularly to share life together and disciple one another.
     
 Our previous studies include:
 * The Sermon on the Mount, Life Builder Study guide by John Stott.
