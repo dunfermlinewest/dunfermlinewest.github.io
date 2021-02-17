@@ -3,7 +3,7 @@ function printCalendar() {
     var calendarId = 'dunfermlinewest.co.uk_7gp9qiqqejtv9vd3319uepa4ec@group.calendar.google.com';
     var mnth = false;
     var currentM;
-    var allDay;
+    var allDay = "";
     var row;
     // 1. Create a project using google's wizzard: https://console.developers.google.com/start/api?id=calendar
     // 2. Create credentials:
@@ -36,12 +36,11 @@ function printCalendar() {
             var calendarRows = ['<table class="events-calendar table"><tbody>'];
             response.result.items.forEach(function(entry) {
                 currentM = moment(entry.start.dateTime).format("MMM");
-                console.log(entry);
+                //console.log(entry);
                 row = "";
                 if (typeof entry.start.dateTime == 'undefined') {
                     /* all day events */
                     if(typeof entry.start.date != 'undefined') {
-                        row = "";
                         currentM = moment(entry.start.date).format("MMM");
                         allDay = " <b>- " + entry.summary + "</b>";
                     }
