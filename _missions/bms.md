@@ -2,14 +2,14 @@
 title:  "Baptist Missionary Society (BMS)"
 link: 'https://bmsworldmission.org '
 logo: ''
-country: 'PE'
-date: 2021-01-19
+country: 'PE,UG,IN'
+date: 2021-02-19
 ---
 ‘BMS works among some of the most marginalised and least evangelised people, in some of the most fragile places on earth.  They aim to bring life in all its fullness through 7 key ministries: church, development, education, health, justice, leadership and relief’.
 
-BMS experienced much disruption in 2020 due to the pandemic.  As they deal with further restrictions as we go into 2021,theyask for prayer that they will be able to offer valuable support to all their partners, personnel and supporters.
+In **Uganda**, where there has been devastating deforestation over the past 25 years, BMS is preparing to begin a new agroforestry project in two communities.  A team is preparing the ground at two churches to set up demonstration sites and in March when the dry season finishes, trees will be planted and the work will begin.
 
-They ask prayer for wisdom and resilience as they finalise the details of how the new strategy they are creating will be funded, communicated and implemented.  They are still hoping that despite these uncertain times, many young people 18-23 will apply to be part of the gap-year Action Teams 2021-22, with training planned to begin in September.
+In **India**, BMS mission worker, Ben Francis works with people in Odisha and West Bengal who live in villages only accessible by boat.  With no transport running from the cities, there was no way to bring food in.  It wasn’t Coronavirus that was killing people, it was starvation.  For many people it seemed there was no hope but through BMS’s Coronavirus appeal they were able to help towards the distribution of over 28,000 food parcels and Ben and the team could bring life-saving food to families in desperate need.  Ben is an amazingly enthusiastic evangelist who usually takes every opportunity to share the Gospel but he said this time he didn’t want to use this opportunity to preach.  He felt God was just asking him to provide physical necessities like food and medicine.  It wasn’t long, however, before he realised that the love of God was just what people wanted.  God opened doors like never before and people who had never wanted to hear the Word of God were listening to Ben’s testimony and asking for prayer.  A lot of new people have come to the Lord, and now have hope.’
 
 As a Baptist Church, our fellowship has supported this work for many years.  We have supported their Harvest Appeal, and Relief Fund, and some individuals within the fellowship give a gift on their birthday to the Birthday Scheme, others still use the ‘globe’ collecting boxes, several receive the excellent ‘Engage’ magazine, and we have two ‘link’ missionaries working in Peru.  Some of their recent news follows:-
 
@@ -19,9 +19,13 @@ Daniel has been very busy exploring the benefits of technology in his ministry. 
 
 Please pray for them as Regiane seeks to organize visas etc. for their travel.  They may well have to travel through another Latin American country as Peru’s international airport was still not permitting flights to Europe.
 
-**Laura-Lee Lovering** working in the Amazon jungle at the Nauta Training Centre.   Laura is praying that everything works out for some good friends to be able to go home to Nauta for Christmas.  She has taken up some study again.  Having spent several years talking to rural pastors and church leaders about the state of their local timber stocks and what might be done to half the decline, she has started a MSc Tropical Forestry with Bangor University.   They are still experiencing power cuts at Nauta, sometimes lasting 12-48 hrs.  A power cut managed to damage a component of the water project system so they are back to manually operating the timing of the pumps until they can get all the parts.
+**Laura-Lee Lovering** Our own Laura-Lee wishes all a Happy New Year!  There has been more restrictions in Peru with a renewed short-term lockdown, though the region of Loreto where Laura works is in the lowest risk category.  The community’s Thanksgiving Service was able to be held just before Christmas with music groups, Christian puppeteers and a youth drama group.
 
-Thanks to the efforts of local colleague, Felix, the radio continues to be the principle tool of ministry just now.  That has been a challenge for Laura as she has had to adapt her visual teaching tools to a different medium.   She wasn’t well a little while ago but after diagnosis of infection from two different types of intestinal parasites and medicine, she is feeling better. 
+In early January the local Nauta team organised a ‘minga’  to erect a temporary retaining wall beside the Centre’s wall which fell during a storm in October.    A ‘minga’ is a community voluntary work morning where the volunteers are rewarded with lunch after a busy morning.  Impressively they completed the 70m long wall in a single Saturday morning.
 
-A copy of their letters in full is on the notice board in the church hall and Laura also sent a Christmas video greeting, which can be viewed at www.bmsworldmission.org/loveringchristmas
+Because of the pandemic and the difficulty of planning with confidence, the team has agreed to using Nauta local radio for evangelism and teaching but they need a committed team to manage programming over the long term.  This month they are hoping the low prevalence of the virus will continue as they are planning to spend 2 days travelling and teaching up-river where there are 25-30 small jungle churches.
+
+There are big changes for Laura too.  After Home Assignment in May-July (hopefully) she will be returning to the city of Piura on the north coast of Peru in her new role working on the implementation of the BMS’ Creation Stewardship Policy across the non-UK based operations.  I am sure she would value our prayer support. 
+
+A copy of their letters in full is on the notice board in the church hall.
 
