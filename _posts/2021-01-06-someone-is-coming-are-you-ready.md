@@ -3,6 +3,7 @@ title: Someone is coming, are you ready?
 date: 2020-12-01T13:45:40.130Z
 image: /assets/img/sic-banner.jpg
 thumb: /assets/img/sic-thumb.jpg
+category: Reflections
 author: "Anthony Luxton"
 ---
 If you could describe the last year in one word what would it be? Perhaps it is the word ‘unexpected.’  

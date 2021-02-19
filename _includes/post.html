@@ -2,9 +2,9 @@
     <section class="" id="about">
         <div class="container">
             <div class="row">
-                <div class="col-sm-9">
+                <div class="col-sm-9 post">
                     <h2>{{page.title}}</h2>
-                    <span class='date'>{{ page.date  | date_to_long_string }} | {{ page.author }}</span>
+                    <span class='date'>{{ page.date  | date_to_long_string }} | {{ page.category }} | {{ page.author }}</span>
                     <hr class="star-light-black">
                     {{content}}
                 </div>

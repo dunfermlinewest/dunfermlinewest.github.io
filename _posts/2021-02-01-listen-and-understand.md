@@ -4,6 +4,7 @@ title: Listen and Understand
 date: 2021-02-01T00:00:00.000Z
 image: /assets/img/listen-and-understand-banner.jpg
 thumb: /assets/img/thumb/listen-and-understand-thumb.jpg
+category: Reflections
 author: "Anthony Luxton"
 ---
 As we have been drawing our Choose Your King series to a close, we have reflected on the importance of aligning our hearts with God. 

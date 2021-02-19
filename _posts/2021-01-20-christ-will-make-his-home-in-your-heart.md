@@ -4,6 +4,7 @@ date: 2020-11-01T13:06:23.434Z
 author: Anthony Luxton
 image: /assets/img/home-in-our-heart.jpg
 thumb: /assets/img/home-in-our-heart-thumb.jpg
+category: Reflections
 ---
 We are not qualified to build God’s house, rather, it is God that builds a home in our hearts through Jesus.
 

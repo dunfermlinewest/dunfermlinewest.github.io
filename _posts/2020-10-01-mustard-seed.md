@@ -4,6 +4,7 @@ title: Kingdom of heaven is like a mustard seed
 date: 2019-10-01T00:00:00.000Z
 image: /assets/img/mustard-seed-banner.jpg
 thumb: /assets/img/thumb/mustard-seed-thumb.jpg
+category: Reflections
 author: "Anthony Luxton"
 ---
 > Jesus said: “The Kingdom of Heaven is like a mustard seed planted in a field.  It is the smallest of all seeds, but it becomes the largest of garden plants; it grows into a tree, and birds come and make nests in its branches.” (Matthew 13:31-32)

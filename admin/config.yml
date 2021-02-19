@@ -42,6 +42,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime", time_format: false}
       - {label: "Author", name: "author", widget: "string"}
+      - {label: "Category", name: "category", widget: "select", options: ["Reflections", "Reviews"]}
       - {label: "Image", name: "image", widget: "file", required: false}
       - {label: "Thumbnail (500x500)", name: "thumb", widget: "file", media_folder:'/assets/img/thumb/', public_folder:'/assets/img/thumb/', required: false}
       - {label: "Body", name: "body", widget: "markdown"} 
