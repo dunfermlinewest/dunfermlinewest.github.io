@@ -13,5 +13,6 @@ We have used the booklets in the past and the Trypraying banner is visible on th
 
 **Pray** for the new partnership with ‘Hopefuelled’ that it will establish a meaningful presence on social media.  In the absence of a national bus campaign this year, this collaboration is timely and exciting.
 
-**Pray** for the leaders of the churches who are getting involved in TryPraying’s spring initiative. **Pray** our own banner on the Dewar St church wall and the booklets may cause interest.
+**Pray** for the leaders of the churches who are getting involved in TryPraying’s spring initiative. 
 
+**Pray** our own banner on the Dewar St church wall and the booklets may cause interest.
