@@ -2,10 +2,10 @@
 layout: post
 title: Christian Reflections on Coronavirus
 date: 2021-02-19T00:00:00.000Z
+author: Anthony Luxton
+category: Reviews
 image: /assets/img/book-banner.jpg
 thumb: /assets/img/thumb/book-thumb.jpg
-category: Reviews
-author: "Anthony Luxton"
 ---
 Before 2019 the term coronavirus was not well known outside of science and medical circles, however, today it is the most searched term across the world. A simple virus has literally shaken the core of modern times, leaving many people with divergent, and strong, views on what is the best way to tackle the covid pandemic. This month we briefly review two Christian reflections on the pandemic.
 
@@ -27,7 +27,7 @@ In such a short book, it is unsurprising that Lennox has left a lot of questions
 Wright begins with the caveat that:
 > "the aim of [his] book ... is not to offer solutions to the questions raised by the pandemic ... [His] main argument is precisely that we need to resist the knee-jerk reactions that come so readily to mind"(xi) 
 
-Wright reflects on a modern tendency to reach for easy answers. (p5) He does not exclude Christians in his critique observing the perpetuation of Christian conspiracy theories, where "some people think they know exactly what's gone wrong and what God is trying to say through it all."(p5) Wright says, "whenever anyone tells you that coronavirus means that God is calling people to repent, tell them to read Job. The whole point is that that is not the point."(p12) Considering the Old Testament, the more appropriate response, when we are caught up in awful circumstances with no apparent reason why, is to leave it with God through prayerful lament.(p14) Rather than looking back to debate what might or might not have happened, we should look forward to what God is doing. 
+Wright reflects on a modern tendency to reach for easy answers. (p5) He does not exclude Christians in his critique, observing the perpetuation of Christian conspiracy theories, where "some people think they know exactly what's gone wrong and what God is trying to say through it all."(p5) Wright says, "whenever anyone tells you that coronavirus means that God is calling people to repent, tell them to read Job. The whole point is that that is not the point."(p12) Considering the Old Testament, the more appropriate response, when we are caught up in awful circumstances with no apparent reason why, is to leave it with God through prayerful lament.(p14) Rather than looking back to debate what might or might not have happened, we should look forward to what God is doing. 
 
 >"That translates directly into what... Jesus, is going to do about it. For he is the light of the world." (p17) 
 
@@ -36,13 +36,13 @@ Christian's, rather than exclaiming 'look here, look there' (and over-interpreti
 **So where do we go from here?** 
 > "The secret of God's saving power is the self-giving love of the incarnate son" (p25) 
 
-This is a love that God has always wanted humans to practice in his world in unity. (p33) Wright posits that God's people are to be the answer to the question What? What needs to be done? How can we help? God works in all things with and through those who love him. (p35) Circling back to lament, Wright highlights that grief is a significant part of love. (p53) A response in love is admitting that we may not have answers, and it is realising that the way Christians behave is a significant factor in pointing towards the actual signs of God, of new life, of new creation: Bringing healing to the world, bread to the hungry and sight to the blind.(p60) 
+Wright suggests that God's people are to be the answer to the question What? What needs to be done? How can we help? God works in all things with and through those who love him. (p35) Circling back to lament, Wright highlights that grief is a significant part of love. (p53) A response in love is admitting that we may not have answers, and it is realising that the way Christians behave is a significant factor in pointing towards the actual signs of God, of new life, of new creation: Bringing healing to the world, bread to the hungry and sight to the blind.(p60) 
 
 Wright, like many writers, highlights accounts of Christian responses during previous great plagues. These Christians in their acts of love became beacons of God's Kingdom in a time of distress and uncertainty.
 
 > "The early Christians would pitch in and nurse people, sometimes saving lives, sometimes dying themselves... The way Christians behaved in the great plagues of the early centuries was a significant factor in contributing to the spread of faith" (p61) 
 
-As I finish this review I can't help but be reminded of when recently I went to the church building and there was stickered on the wall by our door a note saying "coronavirus is not real." I prefer to think that I do not know who put this sticker there, because as I consider all those who I know personally who have been tragically affected by the virus, I cannot see how such denial is a reasonable or loving response. Certainly, there are no easy answers. A news article I was reading today highlighted the prevalence of families and friends that have fractured due to disagreements over how we ought to respond to the virus. Tom Wright's suggested response of mourning with those who mourn and serving where we can in acts of love is compelling and honest. His book is challenging and treats the topic with more thought than Lennox. His book is certainly timely but is also worth sitting on the shelf to pull out during any time of uncertainty not just covid19. 
+As I finish this review I can't help but be reminded of when recently I went to the church building and there was stickered on the wall by our door a note saying "coronavirus is not real." I prefer to think that I do not know who put this sticker there, because as I consider all those who I know personally who have been tragically affected by the virus, I cannot see how such denial is a reasonable or loving response. Certainly, there are no easy answers. A news article I was reading today highlighted the prevalence of relationships between families and friends that have fractured due to disagreements over how we ought to respond to the virus. Tom Wright's suggested response of mourning with those who mourn and serving where we can in acts of love is compelling and honest. His book is challenging and treats the topic with in more depth than Lennox. His book is certainly timely but is also worth sitting on the shelf to pull out during any time of uncertainty not just covid19. 
 
 If you would like to borrow either of these books, simply contact Anthony and he will add you to the list.
 
