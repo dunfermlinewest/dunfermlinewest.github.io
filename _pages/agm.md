@@ -35,7 +35,7 @@ Click on the button below to download zoom
 **Alternatively, you can watch the zoom meeting during and after using the video below:**
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/fpwQGaYP5Hw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" class="video" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/CqfIDTKg9-A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" class="video" allowfullscreen></iframe>
 </div>
 
 
