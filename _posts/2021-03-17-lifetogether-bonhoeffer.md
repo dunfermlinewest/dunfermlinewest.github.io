@@ -13,6 +13,8 @@ A brilliant theologian, deeply respected in the Christian community, Bonhoeffer 
 
 This background  is very helpful, and it seems ironic to be writing about “life together” when in Britain this last year we have been so separated from each other, but what strikes me about the book is how absolutely relevant it is, and how beautifully and wisely he expresses the timeless truth of Christian fellowship. 
 
+![](/assets/img/lifetogether-review.jpg)
+
 - Dietrich Bonhoeffer, *Life Together*, 1939.
 
 The book is simply divided into 5 sections; Community, The Day with Others, The Day Alone, Ministry, and Confession and Communion. (His community had a practice we do not formally have, of confessing their sins to one another the day before communion, which is fascinating). 
