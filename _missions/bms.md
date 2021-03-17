@@ -3,7 +3,7 @@ title:  "Baptist Missionary Society (BMS)"
 link: 'https://bmsworldmission.org '
 logo: ''
 country: 'PE,UG,IN'
-date: 2021-02-19
+date: 2021-03-17
 ---
 ‘BMS works among some of the most marginalised and least evangelised people, in some of the most fragile places on earth.  They aim to bring life in all its fullness through 7 key ministries: church, development, education, health, justice, leadership and relief’.
 
@@ -13,19 +13,9 @@ In **India**, BMS mission worker, Ben Francis works with people in Odisha and We
 
 As a Baptist Church, our fellowship has supported this work for many years.  We have supported their Harvest Appeal, and Relief Fund, and some individuals within the fellowship give a gift on their birthday to the Birthday Scheme, others still use the ‘globe’ collecting boxes, several receive the excellent ‘Engage’ magazine, and we have two ‘link’ missionaries working in Peru.  Some of their recent news follows:-
 
-**Daniel and Regiane Clark** are hoping to make it to the UK in February for Home Assignment, this having been postponed twice because of the pandemic.  The church they attend in Lima reopened on 15th November but the use of private cars is still not allowed on Sundays in Peru so that will be a challenge.  There is a school attached to the church, but sadly the principal died of Covid-19.
+**Daniel and Regiane Clark** are now on Home Assignment in the U.K.  As there were no direct flights between UK and Peru they decided to travel through Brazil and take the opportunity to visit Regiane’s family. With the new variant emerging in the UK, Brazil suspended flights arriving from the U.K.  then with a new Brazilian variant, the U.K. banned all direct flights from South America.  Eventually after Covid-19 tests, and international certificates, a new route was found through Paris   After even more confusion about quarantine in hotels, and hours of sorting out what was to happen, eventually they arrived.  Home Assignment will be different with church visits done virtually.  They pray that their return to Peru in May may be ‘nice and boring’, although Peruvian borders are currently closed to Europe.
 
-Daniel has been very busy exploring the benefits of technology in his ministry. Instead of his usual November visit to the Training Centre at Nauta where Laura-Lee works, the Centre negotiated a spot for him on the local radio to do his sessions, he spoke at a virtual conference for Peruvian pastors and the Seminary’s own conference was on-line.  As Daniels said ‘Love never fails’ – where there is Zoom it will cease, where there are Windows, they will be stalled, where there is technology it will pass away but ‘now these 3 remain, Faith, hope and Love, and the greatest of these is Love’.
+**Laura-Lee Lovering** is hoping to be in the U.K. for Home Assignment at the end of July.  Before that she is preparing to ‘finish well’ at the Nauta Training Centre where she has been very happy and spend a week in Piura at the end of March in preparation for moving there on her return to Peru from the U.K.   In Piura, a city on the Peruvian costal desert plain, she will be involved in implementing BMS’s Organisational Environmental Policy, but doing it from Peru.  She would really value our prayers.
 
-Please pray for them as Regiane seeks to organize visas etc. for their travel.  They may well have to travel through another Latin American country as Peru’s international airport was still not permitting flights to Europe.
-
-**Laura-Lee Lovering** Our own Laura-Lee wishes all a Happy New Year!  There has been more restrictions in Peru with a renewed short-term lockdown, though the region of Loreto where Laura works is in the lowest risk category.  The community’s Thanksgiving Service was able to be held just before Christmas with music groups, Christian puppeteers and a youth drama group.
-
-In early January the local Nauta team organised a ‘minga’  to erect a temporary retaining wall beside the Centre’s wall which fell during a storm in October.    A ‘minga’ is a community voluntary work morning where the volunteers are rewarded with lunch after a busy morning.  Impressively they completed the 70m long wall in a single Saturday morning.
-
-Because of the pandemic and the difficulty of planning with confidence, the team has agreed to using Nauta local radio for evangelism and teaching but they need a committed team to manage programming over the long term.  This month they are hoping the low prevalence of the virus will continue as they are planning to spend 2 days travelling and teaching up-river where there are 25-30 small jungle churches.
-
-There are big changes for Laura too.  After Home Assignment in May-July (hopefully) she will be returning to the city of Piura on the north coast of Peru in her new role working on the implementation of the BMS’ Creation Stewardship Policy across the non-UK based operations.  I am sure she would value our prayer support. 
-
-A copy of their letters in full is on the notice board in the church hall.
+You can read the full letters from the Clarks and Laura-Lee on the notice board in the church hall.
 

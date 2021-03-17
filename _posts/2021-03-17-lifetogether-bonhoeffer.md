@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review: Dietrich Bonhoeffer, Life Together 
+title: "Review: Life Together"
 date: 2021-03-17T00:00:00.000Z
 author: Louise Brigden
 category: Reviews

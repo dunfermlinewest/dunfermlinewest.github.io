@@ -3,7 +3,7 @@ title:  "Bethany Christian Trust"
 link: 'https://www.bethanychristiantrust.com/ '
 logo: ''
 country: 'GB'
-date: 2021-02-19
+date: 2021-03-17
 ---
 A national charity whose mission is to relieve the suffering and meet the long term needs of homeless and vulnerable people in Scotland.
 
@@ -13,6 +13,4 @@ It’s integrated approach consists of 3 core-streams of life-changing services:
 
 Community Support and Development projects are tailored to local needs and work in partnership with churches to empower people to strengthen their communities to prevent homelessness.
 
-Please pray for the staff and volunteers involved in these projects as they seek to be messengers if hope within each area, helping to meet their physical and spiritual needs as they direct people to Jesus. Pray that by being visible and active in Aberdeen, Midlothian, Leith and the Calders as well as Glasgow’s Tollcross, Possilpark and St George’s Cross, homelessness will be prevented and people will find new life in Christ.
-
-Obviously the annual ’Big Sleep Out’ cannot take place in its usual format this year, so folks are being encouraged to sleep out in their own garden, shed, etc. or ‘build a fort’ in their living room on March 12th.
+The emergency ‘Welcome Centre’ in a Haymarket Hotel is being well-used. Please pray for safety for all using it and those working there. Bethany have exciting plans to expand their work in Aberdeen and Inverness and are exploring other locations. Those working on the vans have distributed 12,000 packs of food and toiletries in the Lothians area. In the light of the Covid restrictions, people are being asked to take part in The Big Sleep Out on March 19th in their own gardens, or in a shelter inside the house.

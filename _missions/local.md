@@ -3,6 +3,8 @@ title:  "Our local community"
 link: 'https://dwb.church/events'
 logo: ''
 country: 'GB'
-date: 2021-02-19
+date: 2021-03-17
 ---
-A ‘Welcome to the Community’ card  is being prepared with details of church services etc. to be put through the doors of newly built houses in the area (for e.g. a new scheme in Grieve St) and also as and when houses change hands.
+Anthony is preparing an Easter video for the assembly at Pittencrieff Primary School and a small goody bag will also be given to all the children.
+
+Community garden is taking shape.  Some local residents are asking ‘what is going on here’ as they pass.   Pray for fruitful conversations.

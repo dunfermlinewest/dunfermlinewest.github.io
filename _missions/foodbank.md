@@ -3,7 +3,7 @@ title:  "Foodbank"
 link: 'https://dunfermline.foodbank.org.uk/'
 logo: ''
 country: 'GB'
-date: 2020-12-15
+date: 2021-03-17
 ---
 Helping local people in crisis.
 
@@ -13,3 +13,4 @@ We donâ€™t think anyone in our community should have to face going hungry. Thatâ
 
 We have a collection point in our building and give monetary contributions during specific times of need.
 
+The local foodbank is still continuing its vital ministry, albeit with shortened hours.  In February their warehouse moved to a permanent home at Unit 1C, Pitreavie Court, Pitreavie Business Park, Dunfermline KY11 8un.

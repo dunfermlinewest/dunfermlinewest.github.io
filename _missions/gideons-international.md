@@ -9,6 +9,6 @@ Gideons International is an Association of Christian business and professional m
 
 While they are often recognized for their work in hotels, they also place and distribute Scriptures in strategic locations so they are available to those who want them, as well as to those who may not know they need them.
 
-We have sometimes had local reps of Gideons to share in our services and given a gift following that.
+Because of a policy decision, the U.K. branch has had to change it’s name to 'God news for everyone' but is still doing the same work of distributing Scripture etc. There have been wonderful stories from those working in hospitals who have been able to read passages of Scripture, mainly from  the  Psalms to seriously ill people with Covid who have not been allowed visitors and also testimonies from non-covid patients facing serious illness who have used the ‘where to find help’ page and found comfort from a Gideon Bible.
 
 
