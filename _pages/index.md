@@ -4,7 +4,7 @@ seotitle: Welcome to Dunfermline West Baptist Church
 layout: default
 bgcolor: "#fff"
 permalink: /
-image: /assets/img/2020.gif
+image: /assets/img/ee-banner.jpg
 image-link: /events
 ---
 <div class="col-lg-12">
