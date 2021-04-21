@@ -4,8 +4,8 @@ seotitle: Welcome to Dunfermline West Baptist Church
 layout: default
 bgcolor: "#fff"
 permalink: /
-image: /assets/img/ee-banner.jpg
-image-link: /easter
+image: /assets/img/eden-banner.jpg
+image-link: /teaching
 ---
 <div class="col-lg-12">
 We are a dynamic Baptist Church in West Dunfermline. Our church family is made up of diverse people from various backgrounds. We meet every Sunday at 11am and run various activities throughout the week. A warm welcome awaits you.

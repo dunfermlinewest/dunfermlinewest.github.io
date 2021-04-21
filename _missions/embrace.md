@@ -3,8 +3,10 @@ title:  "Embrace the Middle East"
 link: 'https://embraceme.org/'
 logo: ''
 country: 'EG,GB,SY,IL,JO,LB'
-date: 2021-01-19
+date: 2021-04-21
 ---
+Embrace works in the West Bank and Gaza in the Palestinian Territories and also in Israel itself.  They request **prayer** that the recent elections will deliver outcomes more favourable to the progressive building of peace, justice and equal rights for all living in Israel and the Palestinian territories than has been the case for many years.
+
 This is a Christian Charity with over 160 years’ experience of helping people of all faiths and none to free themselves from a life of poverty and injustice.  They seek to partner with Middle East Christians as they bring healing and hope and see lives and communities transformed by the compassion of Christ.
 
 When Covid-19 reached Lebanon, the country was already in a dire financial situation, with many facing food shortages, high rents and unemployment.  Life for many of the Syrian refugees there was particularly tough, with Lebanon’s residency policy making it difficult for them to maintain legal status and find work.  The pandemic just increased the difficulties.

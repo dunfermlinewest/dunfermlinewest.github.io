@@ -3,8 +3,10 @@ title:  "Hope Fuelled Design"
 link: 'https://hopefuelled.design'
 logo: ''
 country: 'GB'
-date: 2021-01-19
+date: 2021-04-21
 ---
+It was good the Easter theme was reinforced as people moved around the town, with different churches using the same banners and posters. **Pray** that the wider mission might be fuitful.
+
 Hope Fuelled Design is a digital media mission initiative formed out of a team of creatives in Scotland. 
 
 The initiative was founded by our pastor Anthony who has a background working in the creative industry.

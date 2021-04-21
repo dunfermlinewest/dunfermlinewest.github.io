@@ -1,9 +1,10 @@
 ---
 seotitle: Dunfermline West Weekly Hearing the Good News
 title: Hearing and growing in the Good News
-layout: services
+layout: default
 bgcolor: "#fff"
 permalink: "/teaching/"
+image: /assets/img/eden-banner.jpg
 ---
 <div class='row'>
 <div class="col-sm-12">
@@ -13,30 +14,26 @@ We are all part of one big story. We strive to make sense of our story and find 
 What was written in former days was written for our teaching, that through endurance and through the encouragement of the Scriptures we might have hope.
 <br /><strong>Romans 15:4</strong>
 </p>
-    
-We gather together every <b>Sunday at 11:00am</b> to worship God and study his Word. Anybody is welcome to the service which may include praise, contemplation, family news, prayer and learning.
 
-The church engages a diverse range of speakers. 
+We gather together every <b>Sunday at 11:00am</b> to worship God and study his Word led by a diverse range of speakers. Anybody is welcome to the service which may include praise, contemplation, family news, prayer and learning.
 
-Our pastor Anthony is currently speaking from the books of Samuel: <b>"Choose your King."</b>
-
-<p class='verse'>
-The Israelites said to Gideon, “Rule over us, you and your son and your grandson also; for you have delivered us out of the hand of Midian.”  Gideon said to them, “I will not rule over you, and my son will not rule over you; the Lord will rule over you.”
-<br /><strong>Judges 8:22-23</strong>
+<p class='center'>
+<a class='btn btn-primary' href='{{ site.url }}/youtube/' alt='View sermons' target='_blank'>Watch our sermons</a>
+    <a class='btn btn-primary' href='{{ site.url }}/blog/' alt='View Blog'>Read our monthly reflections</a>
 </p>
 
-Our deacon Alan is currently speaking on the books written by Luke the evangelist.
+Our **pastor Anthony** is currently speaking on **"Even Better Than Eden"** a series based on the book (with the same name) by Nancy Guthrie. Our deacon **Alan** is currently speaking on the books written by Luke the evangelist.
+
+
 
 Our previous sermon series were on:
+- Choose your King. An overview of the Books of Samuel (Anthony)
 - <a href='{{ site.url }}/mission-hospitality/'>Mission and Hospitality</a> (Anthony)
 - Sermon on the mount (Anthony)
 - Characters of the Bible (Alan)
 - <a href='{{ site.url }}/apest/'>APEST (Ephesians 4:11)</a> (Anthony)
 
-<p>
-<a class='btn btn-primary' href='{{ site.url }}/videos/' alt='View sermons'>Click here to listen to our sermons</a>
-    <a class='btn btn-primary' href='{{ site.url }}/blog/' alt='View Blog'>Click here to view our monthly blog</a>
-</p>
+
 <p>
 If you have any questions please email us at <a href='mailto:enquiries@dunfermlinewest.org'>enquiries@dunfermlinewest.org</a> or drop in at Dunfermline West Baptist Church.
 </p>
