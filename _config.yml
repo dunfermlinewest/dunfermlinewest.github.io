@@ -50,6 +50,7 @@ collections:
 
 # Build settings
 markdown: kramdown
+future: true
 
 kramdown:
   parse_block_html: true

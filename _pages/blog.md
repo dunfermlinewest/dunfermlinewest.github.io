@@ -8,7 +8,7 @@ permalink: "/blog/"
 {% for post in site.posts %}
 {% assign mod = forloop.index | modulo: 4 %}
 <div class="col-sm-3 text-normal post-item {{ mod }}">
-<img src='{% if post.thumb %}{{ site.url }}/{{ post.thumb }}{% else %}{{ site.url }}/{{ post.image }}{% endif %}' alt='{{ post.title }}' />
+<img src='{% if post.thumb %}{{ site.url }}/{{ post.thumb }}{% else %}{{ site.url }}/{{ post.image }}{% endif %}' alt="{{ post.title }}" />
 <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
 <span class='date'>{{ post.date  | date_to_long_string }} | {{ post.category }}</span>
 {{ post.excerpt }}
