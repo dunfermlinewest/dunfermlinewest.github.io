@@ -3,9 +3,9 @@ title:  "TryPraying"
 link: 'https://trypraying.org'
 logo: ''
 country: 'GB'
-date: 2021-04-21
+date: 2021-05-21
 ---
-**Pray** people may take and use the booklets outside the church, for the success of the online material and the Spring Initiative.
+**Pray** that the banner and poster on the church wall in Dewar Street will prompt some people to pray who have never thought about doing that before. There are some amazing stories of healing, and answered prayer on the Trypraying website which are well worth a read.
 
 Their website says ‘The desire to reach out to God is basic to many, many, people.  Trypraying is a resource for people like that: no church connection or interest, but open to find out about God.'  
 

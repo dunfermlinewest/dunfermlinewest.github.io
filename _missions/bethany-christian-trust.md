@@ -3,14 +3,9 @@ title:  "Bethany Christian Trust"
 link: 'https://www.bethanychristiantrust.com/ '
 logo: ''
 country: 'GB'
-date: 2021-04-21
+date: 2021-05-21
 ---
-Sleep Out.  Bethany is grateful for all who took part in the Big Sleep Out, which this year became Sleep Out at Home and raised £23,633.
-
-Dundee Community Embraces the Arts with Bethany Christian Trust. In Dundee, Textile Artist Rhona Jack, Photographer Clara Menzies and Street Artist C. Gull will be running workshops for local residents to get involved in and created some exciting artworks for the whole community to enjoy.
-
-**Pray** for Bethany’s Connect to Community initiative – a service that helps those facing homelessness when leaving prison.
-A national charity whose mission is to relieve the suffering and meet the long term needs of homeless and vulnerable people in Scotland.
+We are hoping to have a speaker from Bethany on 15th August  at the church. We are asked to remember their Supported Housing Service in Dumfries which has been in operation since 2002 and helps people to address issues that undermine the ability to live independently within the community.
 
 Bethany supports almost 7,000 people a year across Scotland, including, Glasgow, Edinburgh, Bathgate, Dundee,  Aberdeen, Dumfries and Fife.
 

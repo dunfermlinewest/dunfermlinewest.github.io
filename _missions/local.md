@@ -3,10 +3,8 @@ title:  "Our local community"
 link: 'https://dwb.church/events'
 logo: ''
 country: 'GB'
-date: 2021-04-21
+date: 2021-05-21
 ---
-It was great the goody bags, books and Easter video were so well received by the school and that the video was made available to the children’s parents too.
+The Community Garden is still causing interest and prompting conversations with those who walk up the road and also live in the houses nearby.  One lady said ‘I smile every time I pass by the garden’.  Martin has painted a lovely sign which will soon be displayed in the garden.
 
-The Community Garden is taking shape and giving lots of opportunities for conversations with passers-by.  It was good to have a cross there over Easter and also the 3 outside the church.
-
-Pray for the literature that was made available over the Easter period and give thanks for those who came into the building on the Wednesday.  Give thanks we are now able to meet in person again.
+Please pray that the ‘Welcome to the Community’ cards which are put through the doors of houses changing hands will be effective in connecting with others who have just moved into the area.

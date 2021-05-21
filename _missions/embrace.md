@@ -3,9 +3,17 @@ title:  "Embrace the Middle East"
 link: 'https://embraceme.org/'
 logo: ''
 country: 'EG,GB,SY,IL,JO,LB'
-date: 2021-04-21
+date: 2021-05-21
 ---
-Embrace works in the West Bank and Gaza in the Palestinian Territories and also in Israel itself.  They request **prayer** that the recent elections will deliver outcomes more favourable to the progressive building of peace, justice and equal rights for all living in Israel and the Palestinian territories than has been the case for many years.
+We are asking for your help: we are getting heart-breaking updates from our partners who are trying to continue their medical support to the people of Gaza. Buildings near Al-Shifa Hospital (Gaza’s main hospital) have been bombed and doctors who worked in the hospital were killed with their families in the blast.
+
+With families being bombed out of their homes and entire apartment blocks flattened in airstrikes the death toll continues to rise – over 60 children have already been killed
+
+We are asking for your help.
+
+[Help people in Gaza now](https://embraceme.org/give)
+
+Embrace asked churches throughout the U.K. to pray for peace in Israel/Palestine in the light of the escalating conflict there.  This we did during the service last Sunday (16th May. Embrace and its partners work in East Jerusalem, Gaza and the West Bank, providing health care, and are involved in running Centres for children and vulnerable adults and those with disabilities.  **Please pray** for their protection, and peace for those whom they are seeking to care for, for whom the present situation will  be very traumatic and may prevent them getting to their rehab Centres etc.
 
 This is a Christian Charity with over 160 years’ experience of helping people of all faiths and none to free themselves from a life of poverty and injustice.  They seek to partner with Middle East Christians as they bring healing and hope and see lives and communities transformed by the compassion of Christ.
 

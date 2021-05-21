@@ -3,17 +3,22 @@ title:  "Baptist Missionary Society (BMS)"
 link: 'https://bmsworldmission.org '
 logo: ''
 country: 'PE,UG,IN'
-date: 2021-04-21
+date: 2021-05-21
 ---
+Over the next 2 weeks we will be remembering BMS’ Relief and Disaster Recovery Work and the fact that they are encouraging ‘Creation Care’ principles in all the work they are doing both in their offices and training centres in the U.K. and their projects abroad.  We will have our soup and bread and cheese lunch after morning worship on 30th May.
+
+**Please pray for Laura-Lee Lovering** on home assignment at the moment.  With the restrictions she is limited in how much face-to-face contact she can have with supporting churches, but she will be enjoying seeing her family again.
+
+**Daniel, Regiane and Ana Sophia** are also on home assignment from Peru and will have been able to see Daniel’s parents again after 3 years.  Again theirs were mostly ‘zoom’ visits to churches but they have been busy with continuing contact and ministry in Peru while here in the U.K., which means they are living their lives in 2 time zones at the moment.   Sunday morning services at Bethel Baptist in Lima start at 5pm for Daniel, and he is sometimes teaching students at 2.30am!  Ana is studying for her final exams and her day runs from 2-8pm.  Regiane is engaging with a Church and Community course being promoted by BMS.
+
+Vaccine rollout in Peru is slow and new variants of the virus are very infectious.  There are many older pastors in the Baptist Convention, and it is sadly quite a common occurrence to hear about ministers becoming infected and passing away.  They ask prayer for families and churches that have to adapt to this sad, and challenging reality.
+
+They hope to return to Peru in July, though the future is still uncertain and a second round of votes in the Presidential election has left two candidates, one from the far left and one on the far right, both representing the extremes of Peruvian politics.
+
+You can find out more about the Clarks and Laura-Lee on the notice board in the church hall.
+
 ‘BMS works among some of the most marginalised and least evangelised people, in some of the most fragile places on earth.  They aim to bring life in all its fullness through 7 key ministries: church, development, education, health, justice, leadership and relief’.
 
 BMS is part of The People’s Vaccine Alliance campaign, which is seeking intellectual property waivers on the Covid-19 vaccines which would mean vaccines can be manufactured across the world. Doctors, Andrea and Mark Hotchin, who provide vital healthcare in Bardai in Chad say that ‘for rich nations it is unthinkable that this should be proposed, it is apparently just not the way our world works’.  But as they say ‘it doesn’t have to be like this’.  Rachel Conway-Dael is BMS’ Overseas Team for Relief but is also a trained vaccinator in the UK.   She says this campaign aligns with the BMS petition for a Covid-free world.
 
 Most people in the UK feel instinctively that vaccines are safe – but around the world,  in many contexts hesitancy is grounded in culture and history. 
-
-Our own link missionaries, **Daniel and Regiane Clark** (who are now on Home Assignment) tell us that since the pandemic started in March 2020, lockdown was very strict for Peruvians.  The army was patrolling the streets and you couldn’t go out. It was especially hard for the 70% of the population who are informal workers who work out in the streets.  Most people who were becoming ill with the virus were dying at home.  They preferred to stay at home and be treated with natural medicines and by relatives and the hospitals did not have spaces.   Most people wanted the vaccine but there was information in Peru and other South American countries confusing people telling them the side effects and other diseases the vaccine would cause were worse than the virus itself.   Daniel and Regiane were involved in seminars and workshops seeking to debunk myths and reinforce good health strategies and seeking to make just access to the Covid vaccine a reality.
-
-**Laura-Lee Lovering** Laura tells us the folks at Nauta Training Centre have been afflicted with increasingly frequent power cuts over the last few months.   She was writing the newsletter on paper to conserve her laptop battery as the current cut had already lasted 6 days!  No electricity also meant the recipients of the community water project also meant no water.  Restrictions had tightened again meaning the river trip for th3e field conference had to be cancelled, but ironically she was able to fly to Piura for her trip to meet the folks she will be working wi8th when she returned from Home Assignment.  Piura is so different from Nauta, on Peru’s northern coastal desert plain.  Whilst she is sad to leave the jungle, she is excited by the new possibilities for ministry in Piura, particularly amongst the church’s many annexes out in the rural villages.  Please pray for her as she looks forward to seeing her family in the UK and then all that God has for her in her new role in Peru.
-
-You can find out more about the Clarks and Laura-Lee on the notice board in the church hall.
-
