@@ -9,7 +9,9 @@ thumb: /assets/img/thumb/creation-thumb.jpg
 ---
 > “What is needed in the current environmental crisis is not so much an agreed cap on carbon emissions (important though that may be for the future of our planet), but a radical reorientation of the way we understand ourselves in relation to the natural world around us, something akin to a spiritual revolution” - Sir Jonathan Porritt, co-Founder of Friends of the Earth.
 
-How we understand our relationship with God’s creation is a fundamental part of our calling in bearing God’s name in the world. Last Sunday we reflected on this as we considered the theme of “Creation Stewardship” and the valuable work of the Baptist Missionary Society (BMS). We might be reminded of this responsibility as we consider the global impact of coronavirus, how it is changing the world, and how we might respond (<https://www.bmsworldmission.org/appeal/covid-19-coronavirus-appeal/>). Perhaps you are wondering, does this really matter within our mission? Well, I believe it does, here’s why [1]:  
+How we understand our relationship with God’s creation is a fundamental part of our calling in bearing God’s name in the world. Last Sunday we reflected on this as we considered the theme of “Creation Stewardship” and the valuable work of the Baptist Missionary Society (BMS). We might be reminded of this responsibility as we consider the global impact of coronavirus, how it is changing the world, and how we might respond (<https://www.bmsworldmission.org/appeal/covid-19-coronavirus-appeal/>). 
+
+Perhaps you are wondering, does this really matter within our mission? Well, I believe it does, here’s why [1]:  
 
 **The world is God’s creation (Genesis 1:1).**  We are reminded of the importance of the creation story as we gather on the Sabbath, a physical embodiment of our conviction that God is the creator and His creation depends on him. On Pentecost we were reminded of God’s active presence in sustaining and holding together creation (Colossians 1:15-20). As we consider God’s Spirit (*Ruach*) hovering over creation, where we may see chaos the Spirit sees opportunity. 
 
@@ -23,4 +25,4 @@ How we understand our relationship with God’s creation is a fundamental part o
 
 **Links**
 
-1.   For more information on the themes briefly covered see: Part II: The Beginning of God’s story: The Doctrine of Creation in Michael Lodahl’s The Story of God p53-64.
+1.   For more information on the themes briefly covered see: Part II: The Beginning of God’s story: The Doctrine of Creation in Michael Lodahl’s The Story of God p53-64. <https://www.eden.co.uk/christian-books/bible-study/bible-study-reference-books/the-story-of-god/>
