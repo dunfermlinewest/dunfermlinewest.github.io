@@ -208,6 +208,37 @@ footer div.footer-below {
   height: 400px;
 }
 
+/* cal */
+tr.grey {
+    opacity: 0.50;
+}
+
+#church-calendar {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+#church-calendar .fc-event-time, .fc-event-title {
+    padding: 5px !important;
+    white-space: normal;
+}
+
+#church-calendar .fc-button { 
+    background-color: #f77f71 !important;
+    border-color: #e27266 !important;
+}
+
+#church-calendar .business {
+    opacity: 50%;
+    color: #718df7;
+}
+
+.modal-center {
+    transform: translate(0, -50%);
+    top: 50%;
+    margin: 0 auto;
+}
+
 .date {
     font-size: 0.75em;
     color: #767676;

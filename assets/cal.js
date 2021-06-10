@@ -5,6 +5,7 @@ function printCalendar() {
     var currentM;
     var allDay = "";
     var row;
+
     // 1. Create a project using google's wizzard: https://console.developers.google.com/start/api?id=calendar
     // 2. Create credentials:
     //    a) Go to https://console.cloud.google.com/apis/credentials
@@ -48,7 +49,14 @@ function printCalendar() {
                 } else {
                     currentM = moment(entry.start.dateTime).format("MMM");
                     var startsAt = moment(entry.start.dateTime).format("ddd Do") + ' ' + moment(entry.start.dateTime).format("LT");
-                    row = `<tr><td>${startsAt}</td><td>${entry.summary}${allDay}</td></tr>`;
+                    var loc = "";
+                    cl = "";
+                    //console.log(entry.summary + "Location: " + entry.location);
+                    if(typeof entry.location != 'undefined') {
+                        loc = " (Church Business Meeting)";
+                        cl = "class='grey'";
+                    }
+                    row = `<tr ${cl}><td>${startsAt}</td><td>${entry.summary}${allDay}${loc}</td></tr>`;
                     allDay = "";
                 }
                 /* set month */

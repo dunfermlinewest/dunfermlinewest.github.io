@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body id="page-top" class="index">
+
+    {% include navbar.html %}
+
+    {% include header.html %}
+
+    {% include about-white.html %}
+    
+    {% include portfolio.html %}
+
+    {% include map.html %}    
+
+    {% include footer.html %}
+
+    {% include calmodal.html %}
+
+    {% include javascript.html %}
+      
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+  </body>
+
+</html>
