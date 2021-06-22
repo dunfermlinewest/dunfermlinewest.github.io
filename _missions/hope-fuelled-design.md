@@ -3,17 +3,11 @@ title:  "Hope Fuelled Design"
 link: 'https://hopefuelled.design'
 logo: ''
 country: 'GB'
-date: 2021-04-21
+date: 2021-06-22
 ---
-It was good the Easter theme was reinforced as people moved around the town, with different churches using the same banners and posters. **Pray** that the wider mission might be fuitful.
+23 churches were involved in the Christmas and Easter missions helping to share the gospel story into every day lives in a relevant, innovative, varied and up-to-date way. 
 
-Hope Fuelled Design is a digital media mission initiative formed out of a team of creatives in Scotland. 
-
-The initiative was founded by our pastor Anthony who has a background working in the creative industry.
-
-Hope Fuelled's mission is 'to communicate the gospel story into everyday lives in a relevant, innovative, varied and up to date way.
-
-Our team was assembled out of the shared desire to bring Christ shaped hope into the world, by serving with our creative God-given gifts and fostering collaboration between local churches and groups.'
+In such a short space of time since Hopefuelled came into being, the response from Christian communities has been overwhelming showing there is clearly a thirst for high quality local missional resources that nature church unity. There were also resources for Pentecost and we at the West began our service that day with a poem ‘When God moves in’ by Gilmour Lilly, pastor of Rosyth Baptist.
 
 Missions that we regularly support include:
 <a href='https://someoneiscoming.com' title='Someone is coming'>Some one is coming</a>

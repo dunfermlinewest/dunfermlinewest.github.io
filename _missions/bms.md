@@ -3,11 +3,11 @@ title:  "Baptist Missionary Society (BMS)"
 link: 'https://bmsworldmission.org '
 logo: ''
 country: 'PE,UG,IN'
-date: 2021-05-21
+date: 2021-06-22
 ---
-Over the next 2 weeks we will be remembering BMS’ Relief and Disaster Recovery Work and the fact that they are encouraging ‘Creation Care’ principles in all the work they are doing both in their offices and training centres in the U.K. and their projects abroad.  We will have our soup and bread and cheese lunch after morning worship on 30th May.
+Over the past month we have highlighted the crucial work of the BMS’s Disaster Recovery programme when our focus on Creation Stewardship also tied in with the ‘Better than Eden’ teaching theme.  We were able to hold our annual Soup Lunch and £322 was donated for Relief Work.
 
-**Please pray for Laura-Lee Lovering** on home assignment at the moment.  With the restrictions she is limited in how much face-to-face contact she can have with supporting churches, but she will be enjoying seeing her family again.
+**Please pray for Laura-Lee Lovering** on Home Assignment, based in Wales with her family and looking forward to her new role within the Society’s Creation Care project when she returns to Peru.  A copy of her latest letter is on the notice board in the Church Hall.
 
 **Daniel, Regiane and Ana Sophia** are also on home assignment from Peru and will have been able to see Daniel’s parents again after 3 years.  Again theirs were mostly ‘zoom’ visits to churches but they have been busy with continuing contact and ministry in Peru while here in the U.K., which means they are living their lives in 2 time zones at the moment.   Sunday morning services at Bethel Baptist in Lima start at 5pm for Daniel, and he is sometimes teaching students at 2.30am!  Ana is studying for her final exams and her day runs from 2-8pm.  Regiane is engaging with a Church and Community course being promoted by BMS.
 
