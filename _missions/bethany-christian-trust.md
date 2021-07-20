@@ -5,9 +5,13 @@ logo: ''
 country: 'GB'
 date: 2021-06-22
 ---
-We are hoping that Bethany might be with us on Sunday 15th August.  This month we are asked to pray for Kharis Court, the purpose-built residential unity in Bathgate, West Lothian which offers a residential housing support service to young men and women aged 16-25.  
+Many children from our communities are in desperate need of a break this summer. Episodes of homelessness, cramped living conditions, poverty and conflict at home has made the successive lockdowns much harder. 
 
-They ask prayer that the young people will find freedom from alcohol and drug use addictions, the effects of adverse childhood experiences, past trauma and broken family relationships.  Remember the staff team as they endeavour to show God’s grace and love in everything they do, valuing each individual they come into contact with.  They give thanks for the new and solid foundations that the young people are building their futures on.
+Every summer Bethany sends some of the children and families they support on holidays and ‘daytrips to remember’ at S.U.’s Gowanbank and Lendrick Muir.
+
+They also provide employability training to some of the older kids over the summer holidays. This scheme helps to break the cycle of homelessness and find stable employment upon leaving school.
+
+**West Baptist will be having a Bethany rep at our service on Sunday 15th August.**
 
 Bethany supports almost 7,000 people a year across Scotland, including, Glasgow, Edinburgh, Bathgate, Dundee,  Aberdeen, Dumfries and Fife.
 

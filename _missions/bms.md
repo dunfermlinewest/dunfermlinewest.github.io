@@ -3,19 +3,15 @@ title:  "Baptist Missionary Society (BMS)"
 link: 'https://bmsworldmission.org '
 logo: ''
 country: 'PE,UG,IN'
-date: 2021-06-22
+date: 2021-07-20
 ---
-Over the past month we have highlighted the crucial work of the BMS’s Disaster Recovery programme when our focus on Creation Stewardship also tied in with the ‘Better than Eden’ teaching theme.  We were able to hold our annual Soup Lunch and £322 was donated for Relief Work.
+An up-to-date photo of the **Clark family** and their latest newsletter is on the notice board in the Church Hall. **Pray** for them as they have now returned to Peru where there is some civil unrest following elections, high Covid mortality numbers and the economy is struggling. 
 
-**Please pray for Laura-Lee Lovering** on Home Assignment, based in Wales with her family and looking forward to her new role within the Society’s Creation Care project when she returns to Peru.  A copy of her latest letter is on the notice board in the Church Hall.
+In 2008 in Odisha, India, horrific stories of violence against Christians took place with many having to flee their homes and take cover in surrounding forests and refugee settlements. BMS was able to provide support for many of these people.  When the violence subsided many sought to return home but because they were Christians some of their neighbours refused to let them move back, or draw water from the well.  And yet in the face of persecution God was and is still at work.  Fellowships are still running and people are still coming to faith despite the danger and the possibility of being killed for being a Christian. 
 
-**Daniel, Regiane and Ana Sophia** are also on home assignment from Peru and will have been able to see Daniel’s parents again after 3 years.  Again theirs were mostly ‘zoom’ visits to churches but they have been busy with continuing contact and ministry in Peru while here in the U.K., which means they are living their lives in 2 time zones at the moment.   Sunday morning services at Bethel Baptist in Lima start at 5pm for Daniel, and he is sometimes teaching students at 2.30am!  Ana is studying for her final exams and her day runs from 2-8pm.  Regiane is engaging with a Church and Community course being promoted by BMS.
+Across the world, bold Christians are living out their faith in hard places - no matter the cost.  The 2021 Harvest appeal, ‘I will Stand’ will be focusing on such and will be released shortly.
 
-Vaccine rollout in Peru is slow and new variants of the virus are very infectious.  There are many older pastors in the Baptist Convention, and it is sadly quite a common occurrence to hear about ministers becoming infected and passing away.  They ask prayer for families and churches that have to adapt to this sad, and challenging reality.
-
-They hope to return to Peru in July, though the future is still uncertain and a second round of votes in the Presidential election has left two candidates, one from the far left and one on the far right, both representing the extremes of Peruvian politics.
-
-You can find out more about the Clarks and Laura-Lee on the notice board in the church hall.
+You can find out more about our link missionaries the Clarks and Laura-Lee on the notice board in the church hall.
 
 ‘BMS works among some of the most marginalised and least evangelised people, in some of the most fragile places on earth.  They aim to bring life in all its fullness through 7 key ministries: church, development, education, health, justice, leadership and relief’.
 

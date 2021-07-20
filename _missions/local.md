@@ -3,12 +3,10 @@ title:  "Our local community"
 link: 'https://dwb.church/events'
 logo: ''
 country: 'GB'
-date: 2021-06-22
+date: 2021-07-20
 ---
-Community Garden taking shape and still causing interest.  The sign Martin painted is now in place and once the seats are in place we hope local folks will fee free to enjoy the space.
+Unfortunately because of Covid precautions, Pittencrieff School’s P7 leaving ceremony in the Glen was cancelled at the last minute, but Anthony was able to share with them through a video which included a S.U. video called ‘Moving On’.  **Pray** for the young people moving up to High School and that Anthony will soon be able to visit the school in person again.
 
-‘Welcome to the Community’ cards still being put through doors in the area.
+There are now benches and planters in the Community Garden and there will be an official launch and **Family Fun Day on Saturday 14th August.**
 
-Anthony is participating in Pittencrieff Primary School P7 ‘Leavers’ Event’.
-
-Please pray that the ‘Welcome to the Community’ cards which are put through the doors of houses changing hands will be effective in connecting with others who have just moved into the area.
+This month the Prayer Walk will be on Wednesday 21st July at 11.00am when we will also do a litter pick up round the church area. Please join us and bring your bag for rubbish etc.

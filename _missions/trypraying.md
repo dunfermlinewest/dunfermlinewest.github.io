@@ -3,9 +3,13 @@ title:  "TryPraying"
 link: 'https://trypraying.org'
 logo: ''
 country: 'GB'
-date: 2021-05-21
+date: 2021-07-20
 ---
-**Pray** that the banner and poster on the church wall in Dewar Street will prompt some people to pray who have never thought about doing that before. There are some amazing stories of healing, and answered prayer on the Trypraying website which are well worth a read.
+Trypraying asked churches to complete a survey about their experience of using the Trypraying booklet, the results of which were very encouraging. No one knows how many people see the Banners displayed outside remote rural churches to city centre locations, but ‘Banner viewing numbers’ are being researched.
+
+From our own church’s point of view, it was interesting that when the Courier published the photos of Dewar Street following the explosion the other week, the Trypraying banner on the church wall could be easily seen, so many folk who don’t walk past the church got to see it too!
+
+(Ted’s interview about the incident was also in the paper and he told the Reporter about the launch of the Community Garden!)
 
 Their website says ‘The desire to reach out to God is basic to many, many, people.  Trypraying is a resource for people like that: no church connection or interest, but open to find out about God.'  
 
